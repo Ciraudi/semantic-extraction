@@ -1,0 +1,2917 @@
+--------------------------------- TRIPLE 1 --------------------------------
+Harry Potter		be		character
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 2 --------------------------------
+central character		be in		Harry Potter series
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 3 --------------------------------
+Harry Potter		be character in		Harry Potter series
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+character - verb: engrave or inscribe characters on
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 4 --------------------------------
+Harry Potter		be central character in		Harry Potter series
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+central - noun: a workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication
+character - verb: engrave or inscribe characters on
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 5 --------------------------------
+Harry Potter		be		central character
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 6 --------------------------------
+Harry Potter		be		wizard
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 7 --------------------------------
+Witchcraft		of School be		wizarding academy in Scotland
+
+URI:
+Witchcraft - http://dbpedia.org/resource/Witchcraft
+Scotland - http://dbpedia.org/resource/Scotland
+
+VERB SENSES:
+ 
+ 
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 8 --------------------------------
+Harry		student at		wizarding academy in Scotland
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Scotland - http://dbpedia.org/resource/Scotland
+
+VERB SENSES:
+student - noun: a learner who is enrolled in an educational institution
+at - noun: a highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium
+
+--------------------------------- TRIPLE 9 --------------------------------
+Harry		develop through		Harry adolescence
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+develop - verb: make something new, such as a product or a mental or artistic creation
+through - adverb: having finished or arrived at completion
+
+--------------------------------- TRIPLE 10 --------------------------------
+Harry		learn		to overcome
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+learn - verb: gain knowledge or skills
+
+--------------------------------- TRIPLE 11 --------------------------------
+Harry		learn		Harry develop through Harry adolescence
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+learn - verb: gain knowledge or skills
+
+--------------------------------- TRIPLE 12 --------------------------------
+Harry		overcome		problem
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+problem - http://dbpedia.org/property/problem
+
+VERB SENSES:
+overcome - verb: win a victory over
+
+--------------------------------- TRIPLE 13 --------------------------------
+Harry		learn		Harry develop
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+learn - verb: gain knowledge or skills
+
+--------------------------------- TRIPLE 14 --------------------------------
+novel		chronicle at_time		one year
+
+URI:
+novel - http://dbpedia.org/ontology/Novel
+
+VERB SENSES:
+chronicle - verb: record in chronological order; make a historical record
+ 
+
+--------------------------------- TRIPLE 15 --------------------------------
+Harry Potter book		be inspire by		1990s culture
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+inspire - verb: heighten or intensify
+by - adverb: so as to pass a given point
+
+--------------------------------- TRIPLE 16 --------------------------------
+Harry Potter book		be inspire by		1990s British culture
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+British culture - http://dbpedia.org/resource/Culture_of_the_United_Kingdom
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+inspire - verb: heighten or intensify
+by - adverb: so as to pass a given point
+
+--------------------------------- TRIPLE 17 --------------------------------
+environment		be		connect
+
+URI:
+environment - http://dbpedia.org/property/environment
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 18 --------------------------------
+environment		be		intimately connect
+
+URI:
+environment - http://dbpedia.org/property/environment
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 19 --------------------------------
+environment		be connect to		reality
+
+URI:
+environment - http://dbpedia.org/property/environment
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+connect - verb: connect, fasten, or put together two or more pieces
+ 
+
+--------------------------------- TRIPLE 20 --------------------------------
+environment		be intimately connect to		reality
+
+URI:
+environment - http://dbpedia.org/property/environment
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+intimately - adverb: in a close manner
+connect - verb: connect, fasten, or put together two or more pieces
+ 
+
+--------------------------------- TRIPLE 21 --------------------------------
+world		contain		version of element of everyday life
+
+URI:
+world - http://dbpedia.org/property/world
+
+VERB SENSES:
+contain - verb: include or contain; have as a component
+
+--------------------------------- TRIPLE 22 --------------------------------
+world		contain		version
+
+URI:
+world - http://dbpedia.org/property/world
+version - http://dbpedia.org/property/version
+
+VERB SENSES:
+contain - verb: include or contain; have as a component
+
+--------------------------------- TRIPLE 23 --------------------------------
+world		contain		version of ordinary element
+
+URI:
+world - http://dbpedia.org/property/world
+
+VERB SENSES:
+contain - verb: include or contain; have as a component
+
+--------------------------------- TRIPLE 24 --------------------------------
+world		contain		version of element of life
+
+URI:
+world - http://dbpedia.org/property/world
+
+VERB SENSES:
+contain - verb: include or contain; have as a component
+
+--------------------------------- TRIPLE 25 --------------------------------
+wizarding world		contain		version of element of life
+
+VERB SENSES:
+contain - verb: include or contain; have as a component
+
+--------------------------------- TRIPLE 26 --------------------------------
+wizarding world		contain		magical version of ordinary element of life
+
+VERB SENSES:
+contain - verb: include or contain; have as a component
+
+--------------------------------- TRIPLE 27 --------------------------------
+first novel		be in		Harry Potter series
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 28 --------------------------------
+Philosopher Stone		be		first novel
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 29 --------------------------------
+Harry Potter		be		first novel
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 30 --------------------------------
+Harry Potter		be		novel in Harry Potter series
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 31 --------------------------------
+Harry Potter		be		first novel in Harry Potter series
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 32 --------------------------------
+Harry Potter		be		novel
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+novel - http://dbpedia.org/ontology/Novel
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 33 --------------------------------
+Philosopher Stone		be first novel in		Harry Potter series
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+first - noun: the first or highest in an ordering or series
+novel - noun: an extended fictional work in prose; usually in the form of a story
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 34 --------------------------------
+Harry Potter		be novel in		Harry Potter series
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+novel - noun: an extended fictional work in prose; usually in the form of a story
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 35 --------------------------------
+Philosopher Stone		be		novel
+
+URI:
+novel - http://dbpedia.org/ontology/Novel
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 36 --------------------------------
+Philosopher Stone		be novel in		Harry Potter series
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+novel - noun: an extended fictional work in prose; usually in the form of a story
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 37 --------------------------------
+his background		begin		to reveal
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 38 --------------------------------
+his magical background		be		reveal
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 39 --------------------------------
+his background		begin		reveal
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 40 --------------------------------
+his magical background		begin		to reveal
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 41 --------------------------------
+Harry		meet		half giant
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+meet - verb: come together
+
+--------------------------------- TRIPLE 42 --------------------------------
+Harry		meet		Rubeus Hagrid
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Rubeus Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+
+VERB SENSES:
+meet - verb: come together
+
+--------------------------------- TRIPLE 43 --------------------------------
+Hagrid		be		Keeper of Keys at Hogwarts
+
+URI:
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 44 --------------------------------
+Hagrid		reveal		Keeper of Keys at Hogwarts
+
+URI:
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 45 --------------------------------
+Hagrid		be		Keeper
+
+URI:
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+Keeper - http://dbpedia.org/resource/Keeper
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 46 --------------------------------
+Hagrid		reveal		Keeper of Keys
+
+URI:
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 47 --------------------------------
+Hagrid		reveal		to Keeper at Hogwarts
+
+URI:
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 48 --------------------------------
+Hagrid		be Keeper of		Keys
+
+URI:
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+ 
+ 
+
+--------------------------------- TRIPLE 49 --------------------------------
+Hagrid		reveal		to Keeper of Keys
+
+URI:
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 50 --------------------------------
+Hagrid		reveal		Hagrid
+
+URI:
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 51 --------------------------------
+Hagrid		reveal		to Keeper
+
+URI:
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 52 --------------------------------
+Hagrid		reveal		to Keeper of Keys at Hogwarts
+
+URI:
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 53 --------------------------------
+Hagrid		reveal		Keeper at Hogwarts
+
+URI:
+Hagrid - http://dbpedia.org/resource/Rubeus_Hagrid
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 54 --------------------------------
+Harry		witness		baby
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+witness - verb: be a witness to
+
+--------------------------------- TRIPLE 55 --------------------------------
+Harry		witness		Harry parent murder
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+witness - verb: be a witness to
+
+--------------------------------- TRIPLE 56 --------------------------------
+Harry		witness		Harry parent murder by ob dark wizard
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+witness - verb: be a witness to
+
+--------------------------------- TRIPLE 57 --------------------------------
+Harry parent		murder by		wizard
+
+VERB SENSES:
+murder - verb: kill intentionally and with premeditation
+by - adverb: so as to pass a given point
+
+--------------------------------- TRIPLE 58 --------------------------------
+Harry		witness		Harry parent murder by dark wizard
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+witness - verb: be a witness to
+
+--------------------------------- TRIPLE 59 --------------------------------
+Harry		witness		Harry parent murder by wizard
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+witness - verb: be a witness to
+
+--------------------------------- TRIPLE 60 --------------------------------
+Harry parent		murder by		ob dark wizard
+
+URI:
+wizard - http://dbpedia.org/resource/Middle-earth_peoples
+
+VERB SENSES:
+murder - verb: kill intentionally and with premeditation
+by - adverb: so as to pass a given point
+
+--------------------------------- TRIPLE 61 --------------------------------
+Harry		witness		Harry parent murder by ob wizard
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+witness - verb: be a witness to
+
+--------------------------------- TRIPLE 62 --------------------------------
+Harry		witness		Harry parent murder by power ob dark wizard
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+witness - verb: be a witness to
+
+--------------------------------- TRIPLE 63 --------------------------------
+Harry		witness		Harry parent murder by power ob wizard
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+witness - verb: be a witness to
+
+--------------------------------- TRIPLE 64 --------------------------------
+Harry parent		murder by		power ob wizard
+
+VERB SENSES:
+murder - verb: kill intentionally and with premeditation
+by - adverb: so as to pass a given point
+
+--------------------------------- TRIPLE 65 --------------------------------
+Harry parent		murder by		power ob dark wizard
+
+URI:
+wizard - http://dbpedia.org/resource/Middle-earth_peoples
+
+VERB SENSES:
+murder - verb: kill intentionally and with premeditation
+by - adverb: so as to pass a given point
+
+--------------------------------- TRIPLE 66 --------------------------------
+It		be		second part
+
+URI:
+It - http://dbpedia.org/resource/It
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 67 --------------------------------
+It		be second part of		two part series about Harry life
+
+URI:
+It - http://dbpedia.org/resource/It
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+second - verb: give support or one's approval to
+part - verb: go one's own way; move apart
+ 
+
+--------------------------------- TRIPLE 68 --------------------------------
+It		be part of		two part series about Harry life
+
+URI:
+It - http://dbpedia.org/resource/It
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+part - verb: go one's own way; move apart
+ 
+
+--------------------------------- TRIPLE 69 --------------------------------
+It		be second part of		two part series
+
+URI:
+It - http://dbpedia.org/resource/It
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+second - verb: give support or one's approval to
+part - verb: go one's own way; move apart
+ 
+
+--------------------------------- TRIPLE 70 --------------------------------
+It		be part of		two part series
+
+URI:
+It - http://dbpedia.org/resource/It
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+part - verb: go one's own way; move apart
+ 
+
+--------------------------------- TRIPLE 71 --------------------------------
+It		be		part
+
+URI:
+It - http://dbpedia.org/resource/It
+part - http://dbpedia.org/property/part
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 72 --------------------------------
+Part 2		be about		his time
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+about - adverb: on the move
+
+--------------------------------- TRIPLE 73 --------------------------------
+Part 2		be about		his time at Hogwarts
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+about - adverb: on the move
+
+--------------------------------- TRIPLE 74 --------------------------------
+Part		be about		his time at Hogwarts
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+about - adverb: on the move
+
+--------------------------------- TRIPLE 75 --------------------------------
+Part		be about		his time
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+about - adverb: on the move
+
+--------------------------------- TRIPLE 76 --------------------------------
+Harry		discover		talent of fly on broomstick
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+broomstick - http://dbpedia.org/resource/Broom
+
+VERB SENSES:
+discover - verb: discover or determine the existence, presence, or fact of
+
+--------------------------------- TRIPLE 77 --------------------------------
+Harry		be recruit for		Harry house Quidditch team
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+recruit - verb: register formally as a participant or member
+ 
+
+--------------------------------- TRIPLE 78 --------------------------------
+Harry		be		recruit
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+recruit - http://dbpedia.org/property/recruit
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 79 --------------------------------
+Harry		discover		talent of fly on broomstick
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+broomstick - http://dbpedia.org/resource/Broom
+
+VERB SENSES:
+discover - verb: discover or determine the existence, presence, or fact of
+
+--------------------------------- TRIPLE 80 --------------------------------
+Harry		discover		talent of fly
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+discover - verb: discover or determine the existence, presence, or fact of
+
+--------------------------------- TRIPLE 81 --------------------------------
+Harry		discover		talent
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+discover - verb: discover or determine the existence, presence, or fact of
+
+--------------------------------- TRIPLE 82 --------------------------------
+Harry		discover		talent of fly
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+discover - verb: discover or determine the existence, presence, or fact of
+
+--------------------------------- TRIPLE 83 --------------------------------
+Harry		discover		talent
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+discover - verb: discover or determine the existence, presence, or fact of
+
+--------------------------------- TRIPLE 84 --------------------------------
+first book		conclude with		Harry confrontation with Lord Voldemort
+
+VERB SENSES:
+conclude - verb: decide by reasoning; draw or come to a conclusion
+ 
+
+--------------------------------- TRIPLE 85 --------------------------------
+book		conclude with		Harry second confrontation
+
+URI:
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+conclude - verb: decide by reasoning; draw or come to a conclusion
+ 
+
+--------------------------------- TRIPLE 86 --------------------------------
+first book		conclude with		Harry second confrontation with Lord Voldemort
+
+VERB SENSES:
+conclude - verb: decide by reasoning; draw or come to a conclusion
+ 
+
+--------------------------------- TRIPLE 87 --------------------------------
+Harry second confrontation		be with		Lord Voldemort
+
+URI:
+Lord Voldemort - http://dbpedia.org/resource/Lord_Voldemort
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+ 
+
+--------------------------------- TRIPLE 88 --------------------------------
+book		conclude with		Harry confrontation with Lord Voldemort
+
+URI:
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+conclude - verb: decide by reasoning; draw or come to a conclusion
+ 
+
+--------------------------------- TRIPLE 89 --------------------------------
+first book		conclude with		Harry confrontation
+
+VERB SENSES:
+conclude - verb: decide by reasoning; draw or come to a conclusion
+ 
+
+--------------------------------- TRIPLE 90 --------------------------------
+book		conclude with		Harry confrontation
+
+URI:
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+conclude - verb: decide by reasoning; draw or come to a conclusion
+ 
+
+--------------------------------- TRIPLE 91 --------------------------------
+series		continue with		Harry Potter describe Harry year at Hogwarts
+
+URI:
+series - http://dbpedia.org/property/series
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+continue - verb: continue a certain state, condition, or activity
+ 
+
+--------------------------------- TRIPLE 92 --------------------------------
+series		continue with		Harry Potter describe Harry second year at Hogwarts
+
+URI:
+series - http://dbpedia.org/property/series
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+continue - verb: continue a certain state, condition, or activity
+ 
+
+--------------------------------- TRIPLE 93 --------------------------------
+series		continue with		Harry Potter
+
+URI:
+series - http://dbpedia.org/property/series
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+continue - verb: continue a certain state, condition, or activity
+ 
+
+--------------------------------- TRIPLE 94 --------------------------------
+series		continue with		Harry Potter describe Harry second year
+
+URI:
+series - http://dbpedia.org/property/series
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+continue - verb: continue a certain state, condition, or activity
+ 
+
+--------------------------------- TRIPLE 95 --------------------------------
+series		continue with		Harry Potter describe Harry year
+
+URI:
+series - http://dbpedia.org/property/series
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+continue - verb: continue a certain state, condition, or activity
+ 
+
+--------------------------------- TRIPLE 96 --------------------------------
+He		investigate		mystery
+
+URI:
+He - http://dbpedia.org/resource/He
+mystery - http://dbpedia.org/resource/Mystery_fiction
+
+VERB SENSES:
+investigate - verb: investigate scientifically
+
+--------------------------------- TRIPLE 97 --------------------------------
+friend		investigate		50 year old mystery
+
+URI:
+friend - http://dbpedia.org/ontology/friend
+mystery - http://dbpedia.org/resource/Mystery_fiction
+
+VERB SENSES:
+investigate - verb: investigate scientifically
+
+--------------------------------- TRIPLE 98 --------------------------------
+He		investigate		50 year old mystery
+
+URI:
+He - http://dbpedia.org/resource/He
+mystery - http://dbpedia.org/resource/Mystery_fiction
+
+VERB SENSES:
+investigate - verb: investigate scientifically
+
+--------------------------------- TRIPLE 99 --------------------------------
+friend		investigate		mystery
+
+URI:
+friend - http://dbpedia.org/ontology/friend
+mystery - http://dbpedia.org/resource/Mystery_fiction
+
+VERB SENSES:
+investigate - verb: investigate scientifically
+
+--------------------------------- TRIPLE 100 --------------------------------
+Ginny diary		open		Chamber
+
+VERB SENSES:
+open - verb: cause to open or to become open
+
+--------------------------------- TRIPLE 101 --------------------------------
+Ginny diary		open		Chamber of Secrets
+
+VERB SENSES:
+open - verb: cause to open or to become open
+
+--------------------------------- TRIPLE 102 --------------------------------
+direct eye contact		petrify		those
+
+VERB SENSES:
+petrify - verb: cause to become stonelike or stiff or dazed and stunned
+
+--------------------------------- TRIPLE 103 --------------------------------
+eye contact		petrify		those
+
+VERB SENSES:
+petrify - verb: cause to become stonelike or stiff or dazed and stunned
+
+--------------------------------- TRIPLE 104 --------------------------------
+basilisk		kill		those
+
+URI:
+basilisk - http://dbpedia.org/resource/Basilisk
+
+VERB SENSES:
+kill - verb: cause to die; put to death, usually intentionally or knowingly
+
+--------------------------------- TRIPLE 105 --------------------------------
+book		introduce		new Defence
+
+URI:
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+introduce - verb: cause to come to know personally
+
+--------------------------------- TRIPLE 106 --------------------------------
+book		introduce Defence		Dark Arts teacher
+
+URI:
+book - http://dbpedia.org/property/book
+Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+introduce - verb: cause to come to know personally
+ 
+
+--------------------------------- TRIPLE 107 --------------------------------
+book		introduce		Defence
+
+URI:
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+introduce - verb: cause to come to know personally
+
+--------------------------------- TRIPLE 108 --------------------------------
+book		introduce		Dark Arts teacher
+
+URI:
+book - http://dbpedia.org/property/book
+Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+introduce - verb: cause to come to know personally
+
+--------------------------------- TRIPLE 109 --------------------------------
+book		introduce		Defence
+
+URI:
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+introduce - verb: cause to come to know personally
+
+--------------------------------- TRIPLE 110 --------------------------------
+book		introduce		Dark Arts teacher
+
+URI:
+book - http://dbpedia.org/property/book
+Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+introduce - verb: cause to come to know personally
+
+--------------------------------- TRIPLE 111 --------------------------------
+book		introduce		new Defence
+
+URI:
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+introduce - verb: cause to come to know personally
+
+--------------------------------- TRIPLE 112 --------------------------------
+Harry learn		associate with		Dark Arts
+
+URI:
+Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+associate - verb: make a logical or causal connection
+ 
+
+--------------------------------- TRIPLE 113 --------------------------------
+Harry ability		speak		snake language Parseltongue
+
+URI:
+snake - http://dbpedia.org/resource/Snake
+Parseltongue - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+speak - verb: express in speech
+
+--------------------------------- TRIPLE 114 --------------------------------
+Harry learn		often associate with		Dark Arts
+
+URI:
+Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+often - adverb: many times at short intervals
+associate - verb: make a logical or causal connection
+ 
+
+--------------------------------- TRIPLE 115 --------------------------------
+Harry learn		be		rare
+
+URI:
+rare - http://dbpedia.org/property/rare
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 116 --------------------------------
+end		reveal		Draco father
+
+URI:
+end - http://dbpedia.org/property/end
+Draco - http://dbpedia.org/resource/Draco_Malfoy
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 117 --------------------------------
+end		reveal		Draco father of Ron father
+
+URI:
+end - http://dbpedia.org/property/end
+Draco - http://dbpedia.org/resource/Draco_Malfoy
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 118 --------------------------------
+end		reveal		to culprit
+
+URI:
+end - http://dbpedia.org/property/end
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 119 --------------------------------
+Lucius Malfoy		be		culprit
+
+URI:
+Lucius - http://dbpedia.org/resource/Death_Eater
+Lucius Malfoy - http://dbpedia.org/resource/Lucius_Malfoy
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 120 --------------------------------
+Lucius Malfoy		father of		Ron father
+
+URI:
+Lucius - http://dbpedia.org/resource/Death_Eater
+Lucius Malfoy - http://dbpedia.org/resource/Lucius_Malfoy
+
+VERB SENSES:
+father - verb: make children
+ 
+
+--------------------------------- TRIPLE 121 --------------------------------
+end		reveal		culprit
+
+URI:
+end - http://dbpedia.org/property/end
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 122 --------------------------------
+end		reveal		Lucius Malfoy
+
+URI:
+end - http://dbpedia.org/property/end
+Lucius - http://dbpedia.org/resource/Death_Eater
+Lucius Malfoy - http://dbpedia.org/resource/Lucius_Malfoy
+
+VERB SENSES:
+reveal - verb: make visible
+
+--------------------------------- TRIPLE 123 --------------------------------
+Harry		be in		Harry
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 124 --------------------------------
+third novel		follow		Harry
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+follow - verb: to travel behind, go after, come after
+
+--------------------------------- TRIPLE 125 --------------------------------
+Harry Potter		follow		Harry
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+follow - verb: to travel behind, go after, come after
+
+--------------------------------- TRIPLE 126 --------------------------------
+novel		follow		Harry in Harry
+
+URI:
+novel - http://dbpedia.org/ontology/Novel
+
+VERB SENSES:
+follow - verb: to travel behind, go after, come after
+
+--------------------------------- TRIPLE 127 --------------------------------
+Prisoner		follow		Harry
+
+URI:
+Prisoner - http://dbpedia.org/resource/Prisoner
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+follow - verb: to travel behind, go after, come after
+
+--------------------------------- TRIPLE 128 --------------------------------
+Harry		Prisoner of		Azkaban
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Azkaban - http://dbpedia.org/resource/Places_in_Harry_Potter
+
+VERB SENSES:
+ 
+ 
+
+--------------------------------- TRIPLE 129 --------------------------------
+third novel		follow		Harry in Harry
+
+VERB SENSES:
+follow - verb: to travel behind, go after, come after
+
+--------------------------------- TRIPLE 130 --------------------------------
+novel		follow		Harry
+
+URI:
+novel - http://dbpedia.org/ontology/Novel
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+follow - verb: to travel behind, go after, come after
+
+--------------------------------- TRIPLE 131 --------------------------------
+Prisoner		follow		Harry in Harry
+
+URI:
+Prisoner - http://dbpedia.org/resource/Prisoner
+
+VERB SENSES:
+follow - verb: to travel behind, go after, come after
+
+--------------------------------- TRIPLE 132 --------------------------------
+It		be		mention
+
+URI:
+It - http://dbpedia.org/resource/It
+mention - http://dbpedia.org/property/mention
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 133 --------------------------------
+do feature		be in		form
+
+URI:
+form - http://dbpedia.org/property/form
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 134 --------------------------------
+It		be		only book
+
+URI:
+It - http://dbpedia.org/resource/It
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 135 --------------------------------
+It		be		only mention
+
+URI:
+It - http://dbpedia.org/resource/It
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 136 --------------------------------
+only book		be in		series
+
+URI:
+series - http://dbpedia.org/property/series
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 137 --------------------------------
+It		be		book
+
+URI:
+It - http://dbpedia.org/resource/It
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 138 --------------------------------
+Harry		be target by		Sirius Black
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Black - http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census
+Sirius Black - http://dbpedia.org/resource/Sirius_Black
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+target - verb: intend (something) to move towards a certain goal
+by - adverb: so as to pass a given point
+
+--------------------------------- TRIPLE 139 --------------------------------
+Harry		must deal with		knowledge
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+must - noun: a necessary or essential thing
+deal - verb: act on verbally or in some form of artistic expression
+ 
+
+--------------------------------- TRIPLE 140 --------------------------------
+Rowling		write		first part
+
+VERB SENSES:
+write - verb: produce a literary work
+
+--------------------------------- TRIPLE 141 --------------------------------
+Rowling		write		part of Harry Potter
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+write - verb: produce a literary work
+
+--------------------------------- TRIPLE 142 --------------------------------
+Rowling		part of		Harry Potter
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+part - verb: go one's own way; move apart
+ 
+
+--------------------------------- TRIPLE 143 --------------------------------
+Rowling		write		part
+
+URI:
+part - http://dbpedia.org/property/part
+
+VERB SENSES:
+write - verb: produce a literary work
+
+--------------------------------- TRIPLE 144 --------------------------------
+cafés		be in		Edinburgh
+
+URI:
+Edinburgh - http://dbpedia.org/resource/Edinburgh
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 145 --------------------------------
+Rowling		first part of		Harry Potter
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+first - noun: the first or highest in an ordering or series
+part - verb: go one's own way; move apart
+ 
+
+--------------------------------- TRIPLE 146 --------------------------------
+Rowling		write		first part of Harry Potter
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+write - verb: produce a literary work
+
+--------------------------------- TRIPLE 147 --------------------------------
+Nicholson Cafe		be in		Edinburgh
+
+URI:
+Edinburgh - http://dbpedia.org/resource/Edinburgh
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 148 --------------------------------
+corner		be in		Edinburgh
+
+URI:
+Edinburgh - http://dbpedia.org/resource/Edinburgh
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 149 --------------------------------
+J. K. Rowling plaque		be on		corner
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+on - adjective: in operation or operational
+
+--------------------------------- TRIPLE 150 --------------------------------
+J. K. Rowling plaque		be on		corner in Edinburgh
+
+URI:
+Edinburgh - http://dbpedia.org/resource/Edinburgh
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+on - adjective: in operation or operational
+
+--------------------------------- TRIPLE 151 --------------------------------
+J. K. Rowling plaque		be on		corner of former Nicholson Cafe in Edinburgh
+
+URI:
+Edinburgh - http://dbpedia.org/resource/Edinburgh
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+on - adjective: in operation or operational
+
+--------------------------------- TRIPLE 152 --------------------------------
+J. K. Rowling plaque		be on		corner of former Nicholson Cafe
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+on - adjective: in operation or operational
+
+--------------------------------- TRIPLE 153 --------------------------------
+Harry		be		enter
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 154 --------------------------------
+Harry		be enter		participant
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+participant - http://dbpedia.org/ontology/participant
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+enter - verb: to come or go into
+
+--------------------------------- TRIPLE 155 --------------------------------
+Harry		be		In Harry Potter enter participant in Triwizard Tournament
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Triwizard Tournament - http://dbpedia.org/resource/Harry_Potter_and_the_Goblet_of_Fire
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 156 --------------------------------
+participant		be in		Triwizard Tournament
+
+URI:
+participant - http://dbpedia.org/ontology/participant
+Triwizard Tournament - http://dbpedia.org/resource/Harry_Potter_and_the_Goblet_of_Fire
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 157 --------------------------------
+Harry		be enter		participant in Triwizard Tournament
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Triwizard Tournament - http://dbpedia.org/resource/Harry_Potter_and_the_Goblet_of_Fire
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+enter - verb: to come or go into
+
+--------------------------------- TRIPLE 158 --------------------------------
+Harry		be unwillingly enter		participant
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+participant - http://dbpedia.org/ontology/participant
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+unwillingly - adverb: in an unwilling manner
+enter - verb: to come or go into
+
+--------------------------------- TRIPLE 159 --------------------------------
+Harry		be unwillingly enter In		Harry Potter
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+unwillingly - adverb: in an unwilling manner
+enter - verb: to come or go into
+ 
+
+--------------------------------- TRIPLE 160 --------------------------------
+Harry		be		In Harry Potter unwillingly enter participant in Triwizard Tournament
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Triwizard Tournament - http://dbpedia.org/resource/Harry_Potter_and_the_Goblet_of_Fire
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 161 --------------------------------
+Harry		be		unwillingly enter
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 162 --------------------------------
+Harry		be enter In		Harry Potter
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+enter - verb: to come or go into
+ 
+
+--------------------------------- TRIPLE 163 --------------------------------
+Harry		be		In Harry Potter unwillingly enter participant
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 164 --------------------------------
+Harry		be unwillingly enter		participant in Triwizard Tournament
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Triwizard Tournament - http://dbpedia.org/resource/Harry_Potter_and_the_Goblet_of_Fire
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+unwillingly - adverb: in an unwilling manner
+enter - verb: to come or go into
+
+--------------------------------- TRIPLE 165 --------------------------------
+Harry		be		In Harry Potter enter participant
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 166 --------------------------------
+Harry		must compete at_time		year
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+year - http://dbpedia.org/property/year
+
+VERB SENSES:
+must - noun: a necessary or essential thing
+compete - verb: compete for something; engage in a contest; measure oneself against others
+ 
+
+--------------------------------- TRIPLE 167 --------------------------------
+Harry		be		guide through tournament by their new Defence
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 168 --------------------------------
+Harry		be guide by		their new Defence
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+guide - verb: direct the course; determine the direction of travelling
+by - adverb: so as to pass a given point
+
+--------------------------------- TRIPLE 169 --------------------------------
+Harry		be		guide through tournament by their Defence Dark Arts professor
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 170 --------------------------------
+Harry		be		guide by their new Defence Dark Arts professor
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 171 --------------------------------
+Harry		be		guide through tournament by their Defence
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 172 --------------------------------
+series shift		mystery		uncertainty into conflict
+
+VERB SENSES:
+mystery - noun: something that baffles understanding and cannot be explained
+
+--------------------------------- TRIPLE 173 --------------------------------
+series shift		mystery		uncertainty into open conflict
+
+VERB SENSES:
+mystery - noun: something that baffles understanding and cannot be explained
+
+--------------------------------- TRIPLE 174 --------------------------------
+others		be in		magical world
+
+URI:
+others - http://dbpedia.org/property/others
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 175 --------------------------------
+Ministry		appoint		Inquisitor of Hogwarts
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+appoint - verb: create and charge with a task or function
+
+--------------------------------- TRIPLE 176 --------------------------------
+Ministry		appoint		Inquisitor
+
+URI:
+Inquisitor - http://dbpedia.org/resource/Inquisitor
+
+VERB SENSES:
+appoint - verb: create and charge with a task or function
+
+--------------------------------- TRIPLE 177 --------------------------------
+Ministry		appoint		High Inquisitor
+
+VERB SENSES:
+appoint - verb: create and charge with a task or function
+
+--------------------------------- TRIPLE 178 --------------------------------
+Ministry		appoint		High Inquisitor of Hogwarts
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+appoint - verb: create and charge with a task or function
+
+--------------------------------- TRIPLE 179 --------------------------------
+Ministry		appoint Dolores Umbridge		High Inquisitor
+
+VERB SENSES:
+appoint - verb: create and charge with a task or function
+ 
+ 
+
+--------------------------------- TRIPLE 180 --------------------------------
+Ministry		appoint		Dolores Umbridge
+
+URI:
+Dolores Umbridge - http://dbpedia.org/resource/Ministry_of_Magic
+Dolores Umbridge - http://dbpedia.org/resource/Dolores_Umbridge
+
+VERB SENSES:
+appoint - verb: create and charge with a task or function
+
+--------------------------------- TRIPLE 181 --------------------------------
+Ministry		appoint Dolores Umbridge		Inquisitor
+
+URI:
+Inquisitor - http://dbpedia.org/resource/Inquisitor
+
+VERB SENSES:
+appoint - verb: create and charge with a task or function
+ 
+ 
+
+--------------------------------- TRIPLE 182 --------------------------------
+Ministry		appoint Dolores Umbridge		High Inquisitor of Hogwarts
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+appoint - verb: create and charge with a task or function
+ 
+ 
+
+--------------------------------- TRIPLE 183 --------------------------------
+Dolores Umbridge		Ministry of		Magic
+
+URI:
+Dolores Umbridge - http://dbpedia.org/resource/Ministry_of_Magic
+Dolores Umbridge - http://dbpedia.org/resource/Dolores_Umbridge
+Magic - http://dbpedia.org/resource/Category:Magic
+
+VERB SENSES:
+ 
+ 
+
+--------------------------------- TRIPLE 184 --------------------------------
+Harry		begin		develop
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 185 --------------------------------
+Harry		begin		to develop
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 186 --------------------------------
+Harry		develop		crush
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+develop - verb: make something new, such as a product or a mental or artistic creation
+
+--------------------------------- TRIPLE 187 --------------------------------
+Harry		develop		crush on Cho Chang
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+develop - verb: make something new, such as a product or a mental or artistic creation
+
+--------------------------------- TRIPLE 188 --------------------------------
+Harry		develop		crush on popular Cho Chang
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+develop - verb: make something new, such as a product or a mental or artistic creation
+
+--------------------------------- TRIPLE 189 --------------------------------
+Ron		form		Dumbledore Army
+
+URI:
+Ron - http://dbpedia.org/resource/Ron
+Dumbledore - http://dbpedia.org/resource/Albus_Dumbledore
+Army - http://dbpedia.org/resource/United_States_Army
+
+VERB SENSES:
+form - verb: create (as an entity)
+
+--------------------------------- TRIPLE 190 --------------------------------
+Harry		teach		higher level skill of Defence
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+teach - verb: impart skills or knowledge to
+
+--------------------------------- TRIPLE 191 --------------------------------
+Harry		teach		Harry classmate
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+teach - verb: impart skills or knowledge to
+
+--------------------------------- TRIPLE 192 --------------------------------
+Harry		agree		teach
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+agree - verb: be in accord; be in agreement
+
+--------------------------------- TRIPLE 193 --------------------------------
+Harry		teach		level skill
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+teach - verb: impart skills or knowledge to
+
+--------------------------------- TRIPLE 194 --------------------------------
+Harry		teach		level skill Dark Arts
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+teach - verb: impart skills or knowledge to
+
+--------------------------------- TRIPLE 195 --------------------------------
+Harry		teach		level skill of Defence Dark Arts
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+teach - verb: impart skills or knowledge to
+
+--------------------------------- TRIPLE 196 --------------------------------
+Harry		teach		higher level skill of Defence Dark Arts
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+teach - verb: impart skills or knowledge to
+
+--------------------------------- TRIPLE 197 --------------------------------
+Ron		form		study group
+
+URI:
+Ron - http://dbpedia.org/resource/Ron
+
+VERB SENSES:
+form - verb: create (as an entity)
+
+--------------------------------- TRIPLE 198 --------------------------------
+Ron		form		secret study group
+
+URI:
+Ron - http://dbpedia.org/resource/Ron
+
+VERB SENSES:
+form - verb: create (as an entity)
+
+--------------------------------- TRIPLE 199 --------------------------------
+Harry		agree		to teach
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+agree - verb: be in accord; be in agreement
+
+--------------------------------- TRIPLE 200 --------------------------------
+Harry		teach		higher level skill Dark Arts
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
+
+VERB SENSES:
+teach - verb: impart skills or knowledge to
+
+--------------------------------- TRIPLE 201 --------------------------------
+Harry		be		trick
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 202 --------------------------------
+Harry Potter		begin warfare In		sixth book
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+warfare - noun: the waging of armed conflict against an enemy
+ 
+
+--------------------------------- TRIPLE 203 --------------------------------
+Half Blood Prince		begin		open warfare
+
+URI:
+Prince - http://dbpedia.org/resource/Prince
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 204 --------------------------------
+Half Blood Prince		begin In		book
+
+URI:
+Prince - http://dbpedia.org/resource/Prince
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+ 
+
+--------------------------------- TRIPLE 205 --------------------------------
+Harry Potter		begin		warfare
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 206 --------------------------------
+Harry Potter		begin In		sixth book
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+ 
+
+--------------------------------- TRIPLE 207 --------------------------------
+Half Blood Prince		begin warfare In		book
+
+URI:
+Prince - http://dbpedia.org/resource/Prince
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+warfare - noun: the waging of armed conflict against an enemy
+ 
+
+--------------------------------- TRIPLE 208 --------------------------------
+Harry Potter		begin In		book
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+ 
+
+--------------------------------- TRIPLE 209 --------------------------------
+Harry Potter		begin		open warfare
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 210 --------------------------------
+Half Blood Prince		begin		warfare
+
+URI:
+Prince - http://dbpedia.org/resource/Prince
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 211 --------------------------------
+Harry Potter		begin		wag warfare
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 212 --------------------------------
+Harry Potter		begin warfare In		book
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+warfare - noun: the waging of armed conflict against an enemy
+ 
+
+--------------------------------- TRIPLE 213 --------------------------------
+Half Blood Prince		begin		wag open warfare
+
+URI:
+Prince - http://dbpedia.org/resource/Prince
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 214 --------------------------------
+Half Blood Prince		begin warfare In		sixth book
+
+URI:
+Prince - http://dbpedia.org/resource/Prince
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+warfare - noun: the waging of armed conflict against an enemy
+ 
+
+--------------------------------- TRIPLE 215 --------------------------------
+Half Blood Prince		begin		wag warfare
+
+URI:
+Prince - http://dbpedia.org/resource/Prince
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 216 --------------------------------
+Harry friend		be		protect
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 217 --------------------------------
+Harry friend		be relatively protect from		danger at Hogwarts
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+relatively - adverb: in a relative manner; by comparison to something else
+protect - verb: shield from danger, injury, destruction, or damage
+ 
+
+--------------------------------- TRIPLE 218 --------------------------------
+Harry friend		be relatively protect from		danger
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+relatively - adverb: in a relative manner; by comparison to something else
+protect - verb: shield from danger, injury, destruction, or damage
+ 
+
+--------------------------------- TRIPLE 219 --------------------------------
+Harry friend		be protect from		danger at Hogwarts
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+protect - verb: shield from danger, injury, destruction, or damage
+ 
+
+--------------------------------- TRIPLE 220 --------------------------------
+Harry friend		be		relatively protect
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 221 --------------------------------
+Harry friend		be protect from		danger
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+protect - verb: shield from danger, injury, destruction, or damage
+ 
+
+--------------------------------- TRIPLE 222 --------------------------------
+Ron		establish		strong infatuation
+
+URI:
+Ron - http://dbpedia.org/resource/Ron
+
+VERB SENSES:
+establish - verb: set up or found
+
+--------------------------------- TRIPLE 223 --------------------------------
+strong infatuation		be with		fellow Hogwarts student Lavender Brown
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+ 
+
+--------------------------------- TRIPLE 224 --------------------------------
+Hermione		romantic feel towards		Ron
+
+URI:
+Hermione - http://dbpedia.org/resource/Hermione_Granger
+Hermione - http://dbpedia.org/resource/Hermione
+Ron - http://dbpedia.org/resource/Ron
+
+VERB SENSES:
+romantic - noun: a soulful or amorous idealist
+feel - verb: undergo an emotional sensation or be in a particular state of mind
+ 
+
+--------------------------------- TRIPLE 225 --------------------------------
+Harry		eventually begin		Ginny
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Ginny - http://dbpedia.org/resource/Ginny
+
+VERB SENSES:
+eventually - adverb: after an unspecified period of time or an especially long delay
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 226 --------------------------------
+Ron		establish		infatuation with fellow Hogwarts student Lavender Brown
+
+URI:
+Ron - http://dbpedia.org/resource/Ron
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+establish - verb: set up or found
+
+--------------------------------- TRIPLE 227 --------------------------------
+Harry		eventually begin		start
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+start - http://dbpedia.org/property/start
+
+VERB SENSES:
+eventually - adverb: after an unspecified period of time or an especially long delay
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 228 --------------------------------
+Ron		infatuation with		Hogwarts student Lavender Brown
+
+URI:
+Ron - http://dbpedia.org/resource/Ron
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+infatuation - noun: a foolish and usually extravagant passion or love or admiration
+ 
+
+--------------------------------- TRIPLE 229 --------------------------------
+Hermione		feel towards		Ron
+
+URI:
+Hermione - http://dbpedia.org/resource/Hermione_Granger
+Hermione - http://dbpedia.org/resource/Hermione
+Ron - http://dbpedia.org/resource/Ron
+
+VERB SENSES:
+feel - verb: undergo an emotional sensation or be in a particular state of mind
+ 
+
+--------------------------------- TRIPLE 230 --------------------------------
+Harry		begin		Ginny
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Ginny - http://dbpedia.org/resource/Ginny
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+
+--------------------------------- TRIPLE 231 --------------------------------
+Harry		take lesson With		war draw
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+take - verb: carry out
+lesson - noun: a unit of instruction
+ 
+
+--------------------------------- TRIPLE 232 --------------------------------
+Harry		take		lesson
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+take - verb: carry out
+
+--------------------------------- TRIPLE 233 --------------------------------
+Harry		take		lesson with Dumbledore
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Dumbledore - http://dbpedia.org/resource/Albus_Dumbledore
+
+VERB SENSES:
+take - verb: carry out
+
+--------------------------------- TRIPLE 234 --------------------------------
+private lesson		be with		Dumbledore
+
+URI:
+Dumbledore - http://dbpedia.org/resource/Albus_Dumbledore
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+ 
+
+--------------------------------- TRIPLE 235 --------------------------------
+Harry		take		private lesson with Dumbledore
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Dumbledore - http://dbpedia.org/resource/Albus_Dumbledore
+
+VERB SENSES:
+take - verb: carry out
+
+--------------------------------- TRIPLE 236 --------------------------------
+Harry		take		private lesson
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+take - verb: carry out
+
+--------------------------------- TRIPLE 237 --------------------------------
+Harry		take lesson With		war draw near
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+take - verb: carry out
+lesson - noun: a unit of instruction
+ 
+
+--------------------------------- TRIPLE 238 --------------------------------
+book		culminate in		kill by Professor Snape
+
+URI:
+book - http://dbpedia.org/property/book
+Professor Snape - http://dbpedia.org/resource/Severus_Snape
+
+VERB SENSES:
+culminate - verb: end, especially to reach a final or climactic stage
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 239 --------------------------------
+book		culminate in		kill
+
+URI:
+book - http://dbpedia.org/property/book
+
+VERB SENSES:
+culminate - verb: end, especially to reach a final or climactic stage
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 240 --------------------------------
+book		culminate in		titular Half Blood Prince
+
+URI:
+book - http://dbpedia.org/property/book
+Prince - http://dbpedia.org/resource/Prince
+
+VERB SENSES:
+culminate - verb: end, especially to reach a final or climactic stage
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 241 --------------------------------
+Professor Snape		by kill be		titular Half Blood Prince
+
+URI:
+Professor Snape - http://dbpedia.org/resource/Severus_Snape
+Prince - http://dbpedia.org/resource/Prince
+
+VERB SENSES:
+by - adverb: so as to pass a given point
+kill - verb: cause to die; put to death, usually intentionally or knowingly
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 242 --------------------------------
+book		culminate in		kill of Dumbledore by Professor Snape
+
+URI:
+book - http://dbpedia.org/property/book
+Dumbledore - http://dbpedia.org/resource/Albus_Dumbledore
+Professor Snape - http://dbpedia.org/resource/Severus_Snape
+
+VERB SENSES:
+culminate - verb: end, especially to reach a final or climactic stage
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 243 --------------------------------
+book		culminate in		Half Blood Prince
+
+URI:
+book - http://dbpedia.org/property/book
+Prince - http://dbpedia.org/resource/Prince
+
+VERB SENSES:
+culminate - verb: end, especially to reach a final or climactic stage
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 244 --------------------------------
+Harry Potter		be novel in		series
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+series - http://dbpedia.org/property/series
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+novel - noun: an extended fictional work in prose; usually in the form of a story
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 245 --------------------------------
+Hallows		be last novel in		series
+
+URI:
+series - http://dbpedia.org/property/series
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+last - verb: persist for a specified period of time
+novel - noun: an extended fictional work in prose; usually in the form of a story
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 246 --------------------------------
+Harry Potter		be		last novel
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 247 --------------------------------
+Hallows		be original novel in		series
+
+URI:
+series - http://dbpedia.org/property/series
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+original - noun: an original creation (i.e., an audio recording) from which copies can be made
+novel - noun: an extended fictional work in prose; usually in the form of a story
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 248 --------------------------------
+Hallows		be		original novel
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 249 --------------------------------
+Harry Potter		be		novel
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+novel - http://dbpedia.org/ontology/Novel
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 250 --------------------------------
+Hallows		be		last novel
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 251 --------------------------------
+Hallows		be last original novel in		series
+
+URI:
+series - http://dbpedia.org/property/series
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+last - verb: persist for a specified period of time
+original - noun: an original creation (i.e., an audio recording) from which copies can be made
+novel - noun: an extended fictional work in prose; usually in the form of a story
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 252 --------------------------------
+Hallows		be		last original novel
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 253 --------------------------------
+Hallows		be novel in		series
+
+URI:
+series - http://dbpedia.org/property/series
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+novel - noun: an extended fictional work in prose; usually in the form of a story
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 254 --------------------------------
+Harry Potter		be last original novel in		series
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+series - http://dbpedia.org/property/series
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+last - verb: persist for a specified period of time
+original - noun: an original creation (i.e., an audio recording) from which copies can be made
+novel - noun: an extended fictional work in prose; usually in the form of a story
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 255 --------------------------------
+Harry Potter		be		last original novel
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 256 --------------------------------
+Harry Potter		be		original novel
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 257 --------------------------------
+Harry Potter		begin after		event
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+event - http://dbpedia.org/property/event
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+after - adverb: located farther aft
+
+--------------------------------- TRIPLE 258 --------------------------------
+Hallows		begin directly after		event of sixth book
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+directly - adverb: without deviation
+after - adverb: located farther aft
+
+--------------------------------- TRIPLE 259 --------------------------------
+Hallows		begin directly after		event
+
+URI:
+event - http://dbpedia.org/property/event
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+directly - adverb: without deviation
+after - adverb: located farther aft
+
+--------------------------------- TRIPLE 260 --------------------------------
+Hallows		begin directly after		event of book
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+directly - adverb: without deviation
+after - adverb: located farther aft
+
+--------------------------------- TRIPLE 261 --------------------------------
+Harry Potter		begin after		event of sixth book
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+after - adverb: located farther aft
+
+--------------------------------- TRIPLE 262 --------------------------------
+Hallows		begin after		event
+
+URI:
+event - http://dbpedia.org/property/event
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+after - adverb: located farther aft
+
+--------------------------------- TRIPLE 263 --------------------------------
+Harry Potter		begin directly after		event
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+event - http://dbpedia.org/property/event
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+directly - adverb: without deviation
+after - adverb: located farther aft
+
+--------------------------------- TRIPLE 264 --------------------------------
+Harry Potter		begin directly after		event of sixth book
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+directly - adverb: without deviation
+after - adverb: located farther aft
+
+--------------------------------- TRIPLE 265 --------------------------------
+Hallows		begin after		event of sixth book
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+after - adverb: located farther aft
+
+--------------------------------- TRIPLE 266 --------------------------------
+Hallows		begin after		event of book
+
+VERB SENSES:
+begin - verb: take the first step or steps in carrying out an action
+after - adverb: located farther aft
+
+--------------------------------- TRIPLE 267 --------------------------------
+Harry		discover		Harry handy Invisibility Cloak
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+discover - verb: discover or determine the existence, presence, or fact of
+
+--------------------------------- TRIPLE 268 --------------------------------
+Harry		discover		Harry Invisibility Cloak
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+discover - verb: discover or determine the existence, presence, or fact of
+
+--------------------------------- TRIPLE 269 --------------------------------
+Harry friend		learn about		Dumbledore past
+
+URI:
+Dumbledore - http://dbpedia.org/resource/Albus_Dumbledore
+
+VERB SENSES:
+learn - verb: gain knowledge or skills
+about - adverb: on the move
+
+--------------------------------- TRIPLE 270 --------------------------------
+Harry friend		learn At		end of book
+
+VERB SENSES:
+learn - verb: gain knowledge or skills
+ 
+
+--------------------------------- TRIPLE 271 --------------------------------
+Harry friend		learn At		end
+
+URI:
+end - http://dbpedia.org/property/end
+
+VERB SENSES:
+learn - verb: gain knowledge or skills
+ 
+
+--------------------------------- TRIPLE 272 --------------------------------
+book		culminate in		Battle of Hogwarts
+
+URI:
+book - http://dbpedia.org/property/book
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+culminate - verb: end, especially to reach a final or climactic stage
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 273 --------------------------------
+book		culminate in		Battle
+
+URI:
+book - http://dbpedia.org/property/book
+Battle - http://dbpedia.org/resource/Battle
+
+VERB SENSES:
+culminate - verb: end, especially to reach a final or climactic stage
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 274 --------------------------------
+Hermione		defend Hogwarts from		Voldemort
+
+URI:
+Hermione - http://dbpedia.org/resource/Hermione_Granger
+Hermione - http://dbpedia.org/resource/Hermione
+Voldemort - http://dbpedia.org/resource/Lord_Voldemort
+
+VERB SENSES:
+defend - verb: argue or speak in defense of
+ 
+ 
+
+--------------------------------- TRIPLE 275 --------------------------------
+Hermione		defend		Hogwarts
+
+URI:
+Hermione - http://dbpedia.org/resource/Hermione_Granger
+Hermione - http://dbpedia.org/resource/Hermione
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+defend - verb: argue or speak in defense of
+
+--------------------------------- TRIPLE 276 --------------------------------
+Ron		defend Hogwarts from		Voldemort
+
+URI:
+Ron - http://dbpedia.org/resource/Ron
+Voldemort - http://dbpedia.org/resource/Lord_Voldemort
+
+VERB SENSES:
+defend - verb: argue or speak in defense of
+ 
+ 
+
+--------------------------------- TRIPLE 277 --------------------------------
+Ron		defend		Hogwarts
+
+URI:
+Ron - http://dbpedia.org/resource/Ron
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+defend - verb: argue or speak in defense of
+
+--------------------------------- TRIPLE 278 --------------------------------
+Harry		defend		Hogwarts
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+defend - verb: argue or speak in defense of
+
+--------------------------------- TRIPLE 279 --------------------------------
+Ron		defend		his Death Eaters
+
+URI:
+Ron - http://dbpedia.org/resource/Ron
+Death Eaters - http://dbpedia.org/resource/Death_Eater
+
+VERB SENSES:
+defend - verb: argue or speak in defense of
+
+--------------------------------- TRIPLE 280 --------------------------------
+Hermione		defend from		Voldemort
+
+URI:
+Hermione - http://dbpedia.org/resource/Hermione_Granger
+Hermione - http://dbpedia.org/resource/Hermione
+Voldemort - http://dbpedia.org/resource/Lord_Voldemort
+
+VERB SENSES:
+defend - verb: argue or speak in defense of
+ 
+
+--------------------------------- TRIPLE 281 --------------------------------
+Harry		defend from		Voldemort
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Voldemort - http://dbpedia.org/resource/Lord_Voldemort
+
+VERB SENSES:
+defend - verb: argue or speak in defense of
+ 
+
+--------------------------------- TRIPLE 282 --------------------------------
+Harry		defend Hogwarts from		Voldemort
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Voldemort - http://dbpedia.org/resource/Lord_Voldemort
+
+VERB SENSES:
+defend - verb: argue or speak in defense of
+ 
+ 
+
+--------------------------------- TRIPLE 283 --------------------------------
+Hermione		defend		his Death Eaters
+
+URI:
+Hermione - http://dbpedia.org/resource/Hermione_Granger
+Hermione - http://dbpedia.org/resource/Hermione
+Death Eaters - http://dbpedia.org/resource/Death_Eater
+
+VERB SENSES:
+defend - verb: argue or speak in defense of
+
+--------------------------------- TRIPLE 284 --------------------------------
+Several major character		be kill in		wave of Battle of Hogwarts
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+kill - verb: cause to die; put to death, usually intentionally or knowingly
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 285 --------------------------------
+major character		be kill in		wave of Battle of Hogwarts
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+kill - verb: cause to die; put to death, usually intentionally or knowingly
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 286 --------------------------------
+Several character		be kill in		wave
+
+URI:
+wave - http://dbpedia.org/property/wave
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+kill - verb: cause to die; put to death, usually intentionally or knowingly
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 287 --------------------------------
+Several character		be		kill
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 288 --------------------------------
+major character		be kill in		first wave of Battle of Hogwarts
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+kill - verb: cause to die; put to death, usually intentionally or knowingly
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 289 --------------------------------
+major character		be kill in		wave
+
+URI:
+wave - http://dbpedia.org/property/wave
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+kill - verb: cause to die; put to death, usually intentionally or knowingly
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 290 --------------------------------
+Several character		be kill in		wave of Battle
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+kill - verb: cause to die; put to death, usually intentionally or knowingly
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 291 --------------------------------
+character		be kill in		first wave of Battle of Hogwarts
+
+URI:
+Hogwarts - http://dbpedia.org/resource/Hogwarts
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+kill - verb: cause to die; put to death, usually intentionally or knowingly
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 292 --------------------------------
+Several major character		be		kill
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 293 --------------------------------
+Several major character		be kill in		first wave
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+kill - verb: cause to die; put to death, usually intentionally or knowingly
+in - noun: a unit of length equal to one twelfth of a foot
+
+--------------------------------- TRIPLE 294 --------------------------------
+epilogue Nineteen Years		Later describe		live
+
+VERB SENSES:
+ 
+describe - verb: give a description of
+
+--------------------------------- TRIPLE 295 --------------------------------
+epilogue Nineteen Years		describe		live of character
+
+VERB SENSES:
+describe - verb: give a description of
+
+--------------------------------- TRIPLE 296 --------------------------------
+epilogue Nineteen Years		Later describe		live of survive character
+
+VERB SENSES:
+ 
+describe - verb: give a description of
+
+--------------------------------- TRIPLE 297 --------------------------------
+epilogue Nineteen Years		describe		live of survive character
+
+VERB SENSES:
+describe - verb: give a description of
+
+--------------------------------- TRIPLE 298 --------------------------------
+epilogue Nineteen Years		Later describe		live of character
+
+VERB SENSES:
+ 
+describe - verb: give a description of
+
+--------------------------------- TRIPLE 299 --------------------------------
+epilogue Nineteen Years		describe		live
+
+VERB SENSES:
+describe - verb: give a description of
+
+--------------------------------- TRIPLE 300 --------------------------------
+Harry		be		In Epilogue marry
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 301 --------------------------------
+Ron		be		marry
+
+URI:
+Ron - http://dbpedia.org/resource/Ron
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 302 --------------------------------
+Harry		be		marry
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+
+--------------------------------- TRIPLE 303 --------------------------------
+Harry		be		In Epilogue marry with three child
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
+VERB SENSES:
+be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
+

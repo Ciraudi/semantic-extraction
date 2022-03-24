@@ -1,0 +1,8 @@
+pip install numpy
+pip install cython
+spacy==2.1.0
+neural_coref
+en_core_web_sm
+wget
+sentence_transformers
+stanfordnlp

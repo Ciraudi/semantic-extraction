@@ -1,0 +1,410 @@
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'character'}
+{'subject': 'central character', 'relation': 'is in', 'object': 'Harry Potter series'}
+{'subject': 'Potter', 'relation': 'is central', 'object': 'series'}
+{'subject': 'Harry Potter', 'relation': 'is character in', 'object': 'Harry Potter series'}
+{'subject': 'Harry Potter', 'relation': 'is central character in', 'object': 'Harry Potter series'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'central character'}
+{'subject': 'Harry Potter', 'relation': 'discovers at', 'object': 'age'}
+{'subject': 'Harry Potter', 'relation': 'discovers at', 'object': 'age of eleven'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'wizard'}
+{'subject': 'Hogwarts School', 'relation': 'academy in', 'object': 'Scotland'}
+{'subject': 'Harry', 'relation': 'student at', 'object': 'Hogwarts School of Witchcraft'}
+{'subject': 'Harry', 'relation': 'student at', 'object': 'Hogwarts School'}
+{'subject': 'wizarding academy', 'relation': 'is in', 'object': 'Scotland'}
+{'subject': 'Harry', 'relation': 'student at', 'object': 'wizarding academy'}
+{'subject': 'Harry', 'relation': 'student at', 'object': 'academy'}
+{'subject': 'Harry', 'relation': 'becomes', 'object': 'student at Hogwarts School'}
+{'subject': 'Harry', 'relation': 'becomes', 'object': 'student at Hogwarts School of Witchcraft'}
+{'subject': 'Harry', 'relation': 'student at', 'object': 'academy in Scotland'}
+{'subject': 'Harry', 'relation': 'becomes', 'object': 'student'}
+{'subject': 'Witchcraft', 'relation': 'of School is', 'object': 'wizarding academy in Scotland'}
+{'subject': 'Harry', 'relation': 'student at', 'object': 'wizarding academy in Scotland'}
+{'subject': 'Harry', 'relation': 'learns', 'object': 'As Harry develops through Harry adolescence'}
+{'subject': 'Harry', 'relation': 'develops through', 'object': 'Harry adolescence'}
+{'subject': 'Harry', 'relation': 'learns', 'object': 'overcome'}
+{'subject': 'Harry', 'relation': 'learns', 'object': 'to overcome'}
+{'subject': 'Harry', 'relation': 'learns', 'object': 'Harry develops through Harry adolescence'}
+{'subject': 'Harry', 'relation': 'overcome', 'object': 'problems'}
+{'subject': 'Harry', 'relation': 'learns', 'object': 'Harry develops'}
+{'subject': 'Harry', 'relation': 'learns', 'object': 'As Harry develops'}
+{'subject': 'novel', 'relation': 'chronicles at_time', 'object': 'one year'}
+{'subject': 'Harry Potter books', 'relation': 'are inspired by', 'object': '1990s culture'}
+{'subject': 'Harry Potter books', 'relation': 'are inspired by', 'object': '1990s British culture'}
+{'subject': 'environment', 'relation': 'is', 'object': 'connected'}
+{'subject': 'environment', 'relation': 'is', 'object': 'intimately connected'}
+{'subject': 'environment', 'relation': 'is connected to', 'object': 'reality'}
+{'subject': 'environment', 'relation': 'is intimately connected to', 'object': 'reality'}
+{'subject': 'world', 'relation': 'contains', 'object': 'magical versions of elements of everyday life'}
+{'subject': 'world', 'relation': 'contains', 'object': 'versions of elements of everyday life'}
+{'subject': 'world', 'relation': 'contains', 'object': 'versions'}
+{'subject': 'world', 'relation': 'contains', 'object': 'versions of elements'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'magical versions of elements'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'versions of ordinary elements of life'}
+{'subject': 'world', 'relation': 'contains', 'object': 'versions of ordinary elements'}
+{'subject': 'world', 'relation': 'contains', 'object': 'magical versions of elements'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'versions'}
+{'subject': 'world', 'relation': 'contains', 'object': 'versions of ordinary elements of life'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'versions of elements of everyday life'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'magical versions of elements of everyday life'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'versions of elements'}
+{'subject': 'world', 'relation': 'contains', 'object': 'magical versions of ordinary elements'}
+{'subject': 'world', 'relation': 'contains', 'object': 'versions of elements of life'}
+{'subject': 'world', 'relation': 'contains', 'object': 'magical versions of elements of life'}
+{'subject': 'world', 'relation': 'contains', 'object': 'magical versions of ordinary elements of everyday life'}
+{'subject': 'world', 'relation': 'contains', 'object': 'versions of ordinary elements of everyday life'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'magical versions of ordinary elements'}
+{'subject': 'world', 'relation': 'contains', 'object': 'magical versions of ordinary elements of life'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'versions of ordinary elements'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'magical versions of elements of life'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'magical versions'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'magical versions of ordinary elements of everyday life'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'versions of elements of life'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'magical versions of ordinary elements of life'}
+{'subject': 'world', 'relation': 'contains', 'object': 'magical versions'}
+{'subject': 'wizarding world', 'relation': 'contains', 'object': 'versions of ordinary elements of everyday life'}
+{'subject': 'first novel', 'relation': 'is in', 'object': 'Harry Potter series'}
+{'subject': 'Philosopher Stone', 'relation': 'is', 'object': 'first novel'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'first novel'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'novel in Harry Potter series'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'first novel in Harry Potter series'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'novel'}
+{'subject': 'Philosopher Stone', 'relation': 'is first novel in', 'object': 'Harry Potter series'}
+{'subject': 'Harry Potter', 'relation': 'is novel in', 'object': 'Harry Potter series'}
+{'subject': 'Philosopher Stone', 'relation': 'is', 'object': 'novel'}
+{'subject': 'Harry Potter', 'relation': 'is first novel in', 'object': 'Harry Potter series'}
+{'subject': 'Philosopher Stone', 'relation': 'is novel in', 'object': 'Harry Potter series'}
+{'subject': 'his background', 'relation': 'begins', 'object': 'to revealed'}
+{'subject': 'his magical background', 'relation': 'begins', 'object': 'revealed'}
+{'subject': 'his magical background', 'relation': 'be', 'object': 'revealed'}
+{'subject': 'his background', 'relation': 'be', 'object': 'revealed'}
+{'subject': 'his background', 'relation': 'begins', 'object': 'revealed'}
+{'subject': 'his magical background', 'relation': 'begins', 'object': 'to revealed'}
+{'subject': 'book', 'relation': 'is at', 'object': 'point'}
+{'subject': 'Harry', 'relation': 'meets', 'object': 'half giant'}
+{'subject': 'Harry', 'relation': 'meets', 'object': 'Rubeus Hagrid'}
+{'subject': 'Harry first contact', 'relation': 'is with', 'object': 'wizarding world'}
+{'subject': 'Hagrid', 'relation': 'be', 'object': 'Keeper of Keys at Hogwarts'}
+{'subject': 'Hagrid', 'relation': 'reveals', 'object': 'Keeper of Keys at Hogwarts'}
+{'subject': 'Hagrid', 'relation': 'be', 'object': 'Keeper'}
+{'subject': 'Hagrid', 'relation': 'reveals', 'object': 'Keeper of Keys'}
+{'subject': 'Hagrid', 'relation': 'reveals', 'object': 'to Keeper at Hogwarts'}
+{'subject': 'Hagrid', 'relation': 'be Keeper of', 'object': 'Keys'}
+{'subject': 'Hagrid', 'relation': 'be Keeper at', 'object': 'Hogwarts'}
+{'subject': 'Hagrid', 'relation': 'reveals', 'object': 'to Keeper of Keys'}
+{'subject': 'Hagrid', 'relation': 'reveals', 'object': 'Hagrid'}
+{'subject': 'Hagrid', 'relation': 'reveals', 'object': 'to Keeper'}
+{'subject': 'Hagrid', 'relation': 'reveals', 'object': 'to Keeper of Keys at Hogwarts'}
+{'subject': 'Hagrid', 'relation': 'reveals', 'object': 'Keeper'}
+{'subject': 'Hagrid', 'relation': 'reveals', 'object': 'Keeper at Hogwarts'}
+{'subject': 'Harry', 'relation': 'witnessed as', 'object': 'baby'}
+{'subject': 'Harry', 'relation': 'witnessed', 'object': 'Harry parents murder'}
+{'subject': 'Harry parents', 'relation': 'murder by', 'object': 'obsessed wizard'}
+{'subject': 'Harry', 'relation': 'witnessed', 'object': 'Harry parents murder by obsessed dark wizard'}
+{'subject': 'Harry parents', 'relation': 'murder by', 'object': 'wizard'}
+{'subject': 'Harry', 'relation': 'witnessed', 'object': 'Harry parents murder by dark wizard'}
+{'subject': 'Harry', 'relation': 'witnessed', 'object': 'Harry parents murder by wizard'}
+{'subject': 'Harry parents', 'relation': 'murder by', 'object': 'obsessed dark wizard'}
+{'subject': 'Harry', 'relation': 'witnessed', 'object': 'Harry parents murder by obsessed wizard'}
+{'subject': 'Harry', 'relation': 'witnessed', 'object': 'Harry parents murder by power obsessed dark wizard'}
+{'subject': 'Harry', 'relation': 'witnessed', 'object': 'Harry parents murder by power obsessed wizard'}
+{'subject': 'Harry parents', 'relation': 'murder by', 'object': 'power obsessed wizard'}
+{'subject': 'Harry parents', 'relation': 'murder by', 'object': 'power obsessed dark wizard'}
+{'subject': 'Harry parents', 'relation': 'murder by', 'object': 'dark wizard'}
+{'subject': 'It', 'relation': 'is', 'object': 'second part'}
+{'subject': 'It', 'relation': 'is second part of', 'object': 'two part series about Harry life'}
+{'subject': 'It', 'relation': 'is part of', 'object': 'two part series about Harry life'}
+{'subject': 'It', 'relation': 'is second part of', 'object': 'two part series'}
+{'subject': 'It', 'relation': 'is part of', 'object': 'two part series'}
+{'subject': 'It', 'relation': 'is', 'object': 'part'}
+{'subject': 'Part 2', 'relation': 'is about', 'object': 'his time'}
+{'subject': 'Part 2', 'relation': 'is about', 'object': 'his time at Hogwarts'}
+{'subject': 'Part', 'relation': 'is about', 'object': 'his time at Hogwarts'}
+{'subject': 'Part', 'relation': 'is about', 'object': 'his time'}
+{'subject': 'Harry', 'relation': 'also discovers', 'object': 'talent of flying on broomsticks'}
+{'subject': 'Harry', 'relation': 'is recruited for', 'object': 'Harry house Quidditch team'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'recruited'}
+{'subject': 'Harry', 'relation': 'discovers', 'object': 'talent of flying on broomsticks'}
+{'subject': 'Harry', 'relation': 'also discovers', 'object': 'talent of flying'}
+{'subject': 'Harry', 'relation': 'also discovers', 'object': 'talent'}
+{'subject': 'Harry', 'relation': 'discovers', 'object': 'talent of flying'}
+{'subject': 'Harry', 'relation': 'discovers', 'object': 'talent'}
+{'subject': 'first book', 'relation': 'concludes with', 'object': 'Harry confrontation with Lord Voldemort'}
+{'subject': 'book', 'relation': 'concludes with', 'object': 'Harry second confrontation with Lord Voldemort'}
+{'subject': 'book', 'relation': 'concludes with', 'object': 'Harry second confrontation'}
+{'subject': 'first book', 'relation': 'concludes with', 'object': 'Harry second confrontation with Lord Voldemort'}
+{'subject': 'Harry second confrontation', 'relation': 'is with', 'object': 'Lord Voldemort'}
+{'subject': 'book', 'relation': 'concludes with', 'object': 'Harry confrontation with Lord Voldemort'}
+{'subject': 'first book', 'relation': 'concludes with', 'object': 'Harry second confrontation'}
+{'subject': 'first book', 'relation': 'concludes with', 'object': 'Harry confrontation'}
+{'subject': 'book', 'relation': 'concludes with', 'object': 'Harry confrontation'}
+{'subject': 'series', 'relation': 'continues with', 'object': 'Harry Potter describing Harry year at Hogwarts'}
+{'subject': 'series', 'relation': 'continues with', 'object': 'Harry Potter describing Harry second year at Hogwarts'}
+{'subject': 'series', 'relation': 'continues with', 'object': 'Harry Potter'}
+{'subject': 'series', 'relation': 'continues with', 'object': 'Harry Potter describing Harry second year'}
+{'subject': 'series', 'relation': 'continues with', 'object': 'Harry Potter describing Harry year'}
+{'subject': 'He', 'relation': 'investigate', 'object': 'mystery'}
+{'subject': 'friends', 'relation': 'investigate', 'object': '50 year old mystery'}
+{'subject': 'He', 'relation': 'investigate', 'object': '50 year old mystery'}
+{'subject': 'friends', 'relation': 'investigate', 'object': 'mystery'}
+{'subject': 'Ginny diary', 'relation': 'opens', 'object': 'Chamber'}
+{'subject': 'Ginny diary', 'relation': 'opens', 'object': 'Chamber of Secrets'}
+{'subject': 'direct eye contact', 'relation': 'petrifies', 'object': 'those'}
+{'subject': 'eye contact', 'relation': 'petrifies', 'object': 'those'}
+{'subject': 'basilisk', 'relation': 'kills', 'object': 'those'}
+{'subject': 'book', 'relation': 'also introduces', 'object': 'new Defence'}
+{'subject': 'book', 'relation': 'introduces Defence Against', 'object': 'Dark Arts teacher'}
+{'subject': 'book', 'relation': 'introduces', 'object': 'Defence'}
+{'subject': 'book', 'relation': 'also introduces Against', 'object': 'Dark Arts teacher'}
+{'subject': 'book', 'relation': 'also introduces Defence Against', 'object': 'Dark Arts teacher'}
+{'subject': 'book', 'relation': 'also introduces', 'object': 'Defence'}
+{'subject': 'book', 'relation': 'introduces Against', 'object': 'Dark Arts teacher'}
+{'subject': 'book', 'relation': 'introduces', 'object': 'new Defence'}
+{'subject': 'Harry learns', 'relation': 'associated with', 'object': 'Dark Arts'}
+{'subject': 'Harry ability', 'relation': 'speak', 'object': 'snake language Parseltongue'}
+{'subject': 'Harry learns', 'relation': 'often associated with', 'object': 'Dark Arts'}
+{'subject': 'Harry learns', 'relation': 'is', 'object': 'rare'}
+{'subject': 'end', 'relation': 'reveals', 'object': 'Draco father'}
+{'subject': 'end', 'relation': 'reveals', 'object': 'Draco father of Ron father'}
+{'subject': 'end', 'relation': 'reveals', 'object': 'to culprit'}
+{'subject': 'Lucius Malfoy', 'relation': 'be', 'object': 'culprit'}
+{'subject': 'Lucius Malfoy', 'relation': 'father of', 'object': 'Ron father'}
+{'subject': 'Lucius Malfoy', 'relation': 'end of', 'object': 'book'}
+{'subject': 'end', 'relation': 'reveals', 'object': 'culprit'}
+{'subject': 'end', 'relation': 'reveals', 'object': 'Lucius Malfoy'}
+{'subject': 'Harry', 'relation': 'is in', 'object': 'Harry'}
+{'subject': 'third novel', 'relation': 'follows', 'object': 'Harry'}
+{'subject': 'Harry Potter', 'relation': 'follows', 'object': 'Harry'}
+{'subject': 'novel', 'relation': 'follows', 'object': 'Harry in Harry'}
+{'subject': 'Prisoner', 'relation': 'follows', 'object': 'Harry'}
+{'subject': 'Harry', 'relation': 'Prisoner of', 'object': 'Azkaban'}
+{'subject': 'third novel', 'relation': 'follows', 'object': 'Harry in Harry'}
+{'subject': 'novel', 'relation': 'follows', 'object': 'Harry'}
+{'subject': 'Prisoner', 'relation': 'follows', 'object': 'Harry in Harry'}
+{'subject': 'Harry Potter', 'relation': 'follows', 'object': 'Harry in Harry'}
+{'subject': 'It', 'relation': 'being', 'object': 'mentioned'}
+{'subject': 'does feature', 'relation': 'is in', 'object': 'form'}
+{'subject': 'It', 'relation': 'is', 'object': 'only book'}
+{'subject': 'It', 'relation': 'being', 'object': 'only mentioned'}
+{'subject': 'only book', 'relation': 'is in', 'object': 'series'}
+{'subject': 'It', 'relation': 'is', 'object': 'book'}
+{'subject': 'Harry', 'relation': 'been targeted by', 'object': 'Sirius Black'}
+{'subject': 'Harry', 'relation': 'must deal with', 'object': 'knowledge'}
+{'subject': 'Rowling', 'relation': 'wrote', 'object': 'first part'}
+{'subject': 'Rowling', 'relation': 'wrote', 'object': 'part of Harry Potter'}
+{'subject': 'Rowling', 'relation': 'part of', 'object': 'Harry Potter'}
+{'subject': 'Rowling', 'relation': 'wrote', 'object': 'part'}
+{'subject': 'cafés', 'relation': 'is in', 'object': 'Edinburgh'}
+{'subject': 'Rowling', 'relation': 'first part of', 'object': 'Harry Potter'}
+{'subject': 'Rowling', 'relation': 'wrote', 'object': 'first part of Harry Potter'}
+{'subject': 'Nicholson Cafe', 'relation': 'is in', 'object': 'Edinburgh'}
+{'subject': 'corner', 'relation': 'is in', 'object': 'Edinburgh'}
+{'subject': 'J. K. Rowling plaque', 'relation': 'is on', 'object': 'corner'}
+{'subject': 'J. K. Rowling plaque', 'relation': 'is on', 'object': 'corner in Edinburgh'}
+{'subject': 'J. K. Rowling plaque', 'relation': 'is on', 'object': 'corner of former Nicholson Cafe in Edinburgh'}
+{'subject': 'J. K. Rowling plaque', 'relation': 'is on', 'object': 'corner of former Nicholson Cafe'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'entered'}
+{'subject': 'Harry', 'relation': 'is entered as', 'object': 'participant'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'In Harry Potter entered as participant in Triwizard Tournament'}
+{'subject': 'participant', 'relation': 'is in', 'object': 'Triwizard Tournament'}
+{'subject': 'Harry', 'relation': 'is entered as', 'object': 'participant in Triwizard Tournament'}
+{'subject': 'Harry', 'relation': 'is unwillingly entered as', 'object': 'participant'}
+{'subject': 'Harry', 'relation': 'is unwillingly entered In', 'object': 'Harry Potter'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'In Harry Potter unwillingly entered as participant in Triwizard Tournament'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'unwillingly entered'}
+{'subject': 'Harry', 'relation': 'is entered In', 'object': 'Harry Potter'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'In Harry Potter unwillingly entered as participant'}
+{'subject': 'Harry', 'relation': 'is unwillingly entered as', 'object': 'participant in Triwizard Tournament'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'In Harry Potter entered as participant'}
+{'subject': 'Harry', 'relation': 'must compete at_time', 'object': 'year'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'guided through tournament by their new Defence'}
+{'subject': 'Harry', 'relation': 'is guided by', 'object': 'their new Defence'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'guided through tournament by their new Defence Against Dark Arts professor'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'guided through tournament by their Defence Against Dark Arts professor'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'guided by their new Defence Against Dark Arts professor'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'guided through tournament by their Defence'}
+{'subject': 'Harry', 'relation': 'is guided by', 'object': 'their Defence'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'guided by their Defence Against Dark Arts professor'}
+{'subject': 'series shift', 'relation': 'mystery', 'object': 'uncertainty into conflict'}
+{'subject': 'series shift', 'relation': 'mystery', 'object': 'uncertainty'}
+{'subject': 'series shift', 'relation': 'mystery', 'object': 'uncertainty into open conflict'}
+{'subject': 'others', 'relation': 'is in', 'object': 'magical world'}
+{'subject': 'Ministry', 'relation': 'appoints as', 'object': 'Inquisitor of Hogwarts'}
+{'subject': 'Ministry', 'relation': 'appoints as', 'object': 'Inquisitor'}
+{'subject': 'Ministry', 'relation': 'appoints as', 'object': 'High Inquisitor'}
+{'subject': 'Ministry', 'relation': 'appoints as', 'object': 'High Inquisitor of Hogwarts'}
+{'subject': 'Ministry', 'relation': 'appoints Dolores Umbridge as', 'object': 'High Inquisitor'}
+{'subject': 'Ministry', 'relation': 'appoints', 'object': 'Dolores Umbridge'}
+{'subject': 'Ministry', 'relation': 'appoints Dolores Umbridge as', 'object': 'Inquisitor'}
+{'subject': 'Ministry', 'relation': 'appoints Dolores Umbridge as', 'object': 'High Inquisitor of Hogwarts'}
+{'subject': 'Ministry', 'relation': 'appoints Dolores Umbridge as', 'object': 'Inquisitor of Hogwarts'}
+{'subject': 'Dolores Umbridge', 'relation': 'Ministry of', 'object': 'Magic'}
+{'subject': 'Harry', 'relation': 'begins', 'object': 'develop'}
+{'subject': 'Harry', 'relation': 'begins', 'object': 'to develop'}
+{'subject': 'Harry', 'relation': 'develop', 'object': 'crush'}
+{'subject': 'Harry', 'relation': 'develop', 'object': 'crush on Cho Chang'}
+{'subject': 'Harry', 'relation': 'develop', 'object': 'crush on popular Cho Chang'}
+{'subject': 'Ron', 'relation': 'form', 'object': 'Dumbledore Army'}
+{'subject': 'Harry', 'relation': 'teach', 'object': 'higher level skills of Defence'}
+{'subject': 'Harry', 'relation': 'teach', 'object': 'Harry classmates'}
+{'subject': 'Harry', 'relation': 'agrees', 'object': 'teach'}
+{'subject': 'Harry', 'relation': 'teach', 'object': 'level skills of Defence'}
+{'subject': 'Harry', 'relation': 'teach', 'object': 'level skills'}
+{'subject': 'Harry', 'relation': 'teach', 'object': 'level skills Against Dark Arts'}
+{'subject': 'Harry', 'relation': 'teach', 'object': 'higher level skills'}
+{'subject': 'Harry', 'relation': 'teach', 'object': 'level skills of Defence Against Dark Arts'}
+{'subject': 'Harry', 'relation': 'teach', 'object': 'higher level skills of Defence Against Dark Arts'}
+{'subject': 'Ron', 'relation': 'form', 'object': 'study group'}
+{'subject': 'Ron', 'relation': 'form', 'object': 'secret study group'}
+{'subject': 'Harry', 'relation': 'agrees', 'object': 'to teach'}
+{'subject': 'Harry', 'relation': 'teach', 'object': 'higher level skills Against Dark Arts'}
+{'subject': 'Harry', 'relation': 'is', 'object': 'tricked'}
+{'subject': 'Harry Potter', 'relation': 'begins warfare In', 'object': 'sixth book'}
+{'subject': 'Half Blood Prince', 'relation': 'begins', 'object': 'open warfare'}
+{'subject': 'Half Blood Prince', 'relation': 'begins In', 'object': 'book'}
+{'subject': 'Harry Potter', 'relation': 'begins', 'object': 'warfare'}
+{'subject': 'Harry Potter', 'relation': 'begins In', 'object': 'sixth book'}
+{'subject': 'Half Blood Prince', 'relation': 'begins warfare In', 'object': 'book'}
+{'subject': 'Harry Potter', 'relation': 'begins In', 'object': 'book'}
+{'subject': 'Harry Potter', 'relation': 'begins', 'object': 'open warfare'}
+{'subject': 'Half Blood Prince', 'relation': 'begins', 'object': 'warfare'}
+{'subject': 'Harry Potter', 'relation': 'begins', 'object': 'waging open warfare'}
+{'subject': 'Harry Potter', 'relation': 'begins', 'object': 'waging warfare'}
+{'subject': 'Harry Potter', 'relation': 'begins warfare In', 'object': 'book'}
+{'subject': 'Half Blood Prince', 'relation': 'begins', 'object': 'waging open warfare'}
+{'subject': 'Half Blood Prince', 'relation': 'begins warfare In', 'object': 'sixth book'}
+{'subject': 'Half Blood Prince', 'relation': 'begins In', 'object': 'sixth book'}
+{'subject': 'Half Blood Prince', 'relation': 'begins', 'object': 'waging warfare'}
+{'subject': 'Harry friends', 'relation': 'are', 'object': 'protected'}
+{'subject': 'Harry friends', 'relation': 'are relatively protected from', 'object': 'danger at Hogwarts'}
+{'subject': 'Harry friends', 'relation': 'are relatively protected from', 'object': 'danger'}
+{'subject': 'Harry friends', 'relation': 'are protected from', 'object': 'danger at Hogwarts'}
+{'subject': 'Harry friends', 'relation': 'are', 'object': 'relatively protected'}
+{'subject': 'Harry friends', 'relation': 'are protected from', 'object': 'danger'}
+{'subject': 'Ron', 'relation': 'establishes', 'object': 'strong infatuation'}
+{'subject': 'strong infatuation', 'relation': 'is with', 'object': 'fellow Hogwarts student Lavender Brown'}
+{'subject': 'Hermione', 'relation': 'romantic feelings towards', 'object': 'Ron'}
+{'subject': 'Harry', 'relation': 'eventually begins', 'object': 'Ginny'}
+{'subject': 'Ron', 'relation': 'establishes', 'object': 'infatuation with fellow Hogwarts student Lavender Brown'}
+{'subject': 'Harry', 'relation': 'eventually begins', 'object': 'starts'}
+{'subject': 'Ron', 'relation': 'infatuation with', 'object': 'Hogwarts student Lavender Brown'}
+{'subject': 'Ron', 'relation': 'establishes', 'object': 'infatuation with Hogwarts student Lavender Brown'}
+{'subject': 'Hermione', 'relation': 'feelings towards', 'object': 'Ron'}
+{'subject': 'Harry', 'relation': 'begins', 'object': 'Ginny'}
+{'subject': 'Harry', 'relation': 'begins', 'object': 'dating Ginny'}
+{'subject': 'Ron', 'relation': 'strong infatuation with', 'object': 'fellow Hogwarts student Lavender Brown'}
+{'subject': 'Ron', 'relation': 'establishes', 'object': 'strong infatuation with fellow Hogwarts student Lavender Brown'}
+{'subject': 'Harry', 'relation': 'begins', 'object': 'starts'}
+{'subject': 'Ron', 'relation': 'infatuation with', 'object': 'fellow Hogwarts student Lavender Brown'}
+{'subject': 'Ron', 'relation': 'establishes', 'object': 'infatuation'}
+{'subject': 'Ron', 'relation': 'strong infatuation with', 'object': 'Hogwarts student Lavender Brown'}
+{'subject': 'Ron', 'relation': 'establishes', 'object': 'strong infatuation with Hogwarts student Lavender Brown'}
+{'subject': 'Harry', 'relation': 'takes lessons With', 'object': 'war drawing'}
+{'subject': 'Harry', 'relation': 'takes', 'object': 'lessons'}
+{'subject': 'Harry', 'relation': 'takes', 'object': 'lessons with Dumbledore'}
+{'subject': 'private lessons', 'relation': 'is with', 'object': 'Dumbledore'}
+{'subject': 'Harry', 'relation': 'takes', 'object': 'private lessons with Dumbledore'}
+{'subject': 'Harry', 'relation': 'takes', 'object': 'private lessons'}
+{'subject': 'Harry', 'relation': 'takes lessons With', 'object': 'war drawing near'}
+{'subject': 'book', 'relation': 'culminates in', 'object': 'killing by Professor Snape'}
+{'subject': 'book', 'relation': 'culminates in', 'object': 'killing'}
+{'subject': 'book', 'relation': 'culminates in', 'object': 'killing of Dumbledore'}
+{'subject': 'book', 'relation': 'culminates in', 'object': 'titular Half Blood Prince'}
+{'subject': 'Professor Snape', 'relation': 'by killing is', 'object': 'titular Half Blood Prince'}
+{'subject': 'Dumbledore', 'relation': 'of killing is', 'object': 'titular Half Blood Prince'}
+{'subject': 'book', 'relation': 'culminates in', 'object': 'killing of Dumbledore by Professor Snape'}
+{'subject': 'book', 'relation': 'culminates in', 'object': 'Half Blood Prince'}
+{'subject': 'Harry Potter', 'relation': 'is novel in', 'object': 'series'}
+{'subject': 'Hallows', 'relation': 'is last novel in', 'object': 'series'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'last novel'}
+{'subject': 'Hallows', 'relation': 'is original novel in', 'object': 'series'}
+{'subject': 'Hallows', 'relation': 'is', 'object': 'original novel'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'novel'}
+{'subject': 'Hallows', 'relation': 'is', 'object': 'last novel'}
+{'subject': 'Hallows', 'relation': 'is last original novel in', 'object': 'series'}
+{'subject': 'Hallows', 'relation': 'is', 'object': 'last original novel'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'last novel in series'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'original novel in series'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'novel in series'}
+{'subject': 'Hallows', 'relation': 'is novel in', 'object': 'series'}
+{'subject': 'Harry Potter', 'relation': 'is last original novel in', 'object': 'series'}
+{'subject': 'Hallows', 'relation': 'is', 'object': 'novel'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'last original novel in series'}
+{'subject': 'Harry Potter', 'relation': 'is original novel in', 'object': 'series'}
+{'subject': 'last original novel', 'relation': 'is in', 'object': 'series'}
+{'subject': 'Harry Potter', 'relation': 'is last novel in', 'object': 'series'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'last original novel'}
+{'subject': 'Harry Potter', 'relation': 'is', 'object': 'original novel'}
+{'subject': 'Harry Potter', 'relation': 'begins after', 'object': 'events'}
+{'subject': 'Hallows', 'relation': 'begins directly after', 'object': 'events of sixth book'}
+{'subject': 'Hallows', 'relation': 'begins directly after', 'object': 'events'}
+{'subject': 'Hallows', 'relation': 'begins directly after', 'object': 'events of book'}
+{'subject': 'Harry Potter', 'relation': 'begins after', 'object': 'events of sixth book'}
+{'subject': 'Hallows', 'relation': 'begins after', 'object': 'events'}
+{'subject': 'Harry Potter', 'relation': 'begins directly after', 'object': 'events'}
+{'subject': 'Harry Potter', 'relation': 'begins directly after', 'object': 'events of sixth book'}
+{'subject': 'Harry Potter', 'relation': 'begins after', 'object': 'events of book'}
+{'subject': 'Hallows', 'relation': 'begins after', 'object': 'events of sixth book'}
+{'subject': 'Hallows', 'relation': 'begins after', 'object': 'events of book'}
+{'subject': 'Harry Potter', 'relation': 'begins directly after', 'object': 'events of book'}
+{'subject': 'Lord Voldemort', 'relation': 'has completed', 'object': 'Lord Voldemort ascension'}
+{'subject': 'Lord Voldemort', 'relation': 'has completed', 'object': 'Lord Voldemort ascension to power'}
+{'subject': 'Lord Voldemort', 'relation': 'ascension to', 'object': 'power'}
+{'subject': 'Harry', 'relation': 'discovers', 'object': 'Harry handy Invisibility Cloak'}
+{'subject': 'Harry', 'relation': 'discovers', 'object': 'Harry Invisibility Cloak'}
+{'subject': 'Voldemort', 'relation': 'be searching for', 'object': 'another'}
+{'subject': 'Harry friends', 'relation': 'learn about', 'object': 'Dumbledore past'}
+{'subject': 'Harry friends', 'relation': 'learn At', 'object': 'end of book'}
+{'subject': 'Harry friends', 'relation': 'learn At', 'object': 'end'}
+{'subject': 'book', 'relation': 'culminates in', 'object': 'Battle of Hogwarts'}
+{'subject': 'book', 'relation': 'culminates in', 'object': 'Battle'}
+{'subject': 'Hermione', 'relation': 'defend Hogwarts from', 'object': 'Voldemort'}
+{'subject': 'Hermione', 'relation': 'defend', 'object': 'Hogwarts'}
+{'subject': 'Ron', 'relation': 'defend Hogwarts from', 'object': 'Voldemort'}
+{'subject': 'Ron', 'relation': 'defend', 'object': 'Hogwarts'}
+{'subject': 'Ron', 'relation': 'defend from', 'object': 'Voldemort'}
+{'subject': 'Harry', 'relation': 'defend', 'object': 'Hogwarts'}
+{'subject': 'Ron', 'relation': 'defend', 'object': 'his Death Eaters'}
+{'subject': 'Hermione', 'relation': 'defend from', 'object': 'Voldemort'}
+{'subject': 'Harry', 'relation': 'defend from', 'object': 'Voldemort'}
+{'subject': 'Harry', 'relation': 'defend Hogwarts from', 'object': 'Voldemort'}
+{'subject': 'Hermione', 'relation': 'defend', 'object': 'his Death Eaters'}
+{'subject': 'Several major characters', 'relation': 'are killed in', 'object': 'wave of Battle of Hogwarts'}
+{'subject': 'Several major characters', 'relation': 'are killed in', 'object': 'first wave of Battle'}
+{'subject': 'major characters', 'relation': 'are killed in', 'object': 'wave of Battle of Hogwarts'}
+{'subject': 'Several characters', 'relation': 'are killed in', 'object': 'wave'}
+{'subject': 'major characters', 'relation': 'are killed in', 'object': 'first wave'}
+{'subject': 'Several major characters', 'relation': 'are killed in', 'object': 'wave of Battle'}
+{'subject': 'Several characters', 'relation': 'are', 'object': 'killed'}
+{'subject': 'major characters', 'relation': 'are killed in', 'object': 'first wave of Battle of Hogwarts'}
+{'subject': 'Several characters', 'relation': 'are killed in', 'object': 'wave of Battle of Hogwarts'}
+{'subject': 'Several characters', 'relation': 'are killed in', 'object': 'first wave'}
+{'subject': 'characters', 'relation': 'are killed in', 'object': 'wave of Battle'}
+{'subject': 'major characters', 'relation': 'are killed in', 'object': 'first wave of Battle'}
+{'subject': 'major characters', 'relation': 'are', 'object': 'killed'}
+{'subject': 'major characters', 'relation': 'are killed in', 'object': 'wave'}
+{'subject': 'characters', 'relation': 'are killed in', 'object': 'wave'}
+{'subject': 'characters', 'relation': 'are killed in', 'object': 'first wave'}
+{'subject': 'Several characters', 'relation': 'are killed in', 'object': 'wave of Battle'}
+{'subject': 'characters', 'relation': 'are killed in', 'object': 'first wave of Battle of Hogwarts'}
+{'subject': 'Several major characters', 'relation': 'are', 'object': 'killed'}
+{'subject': 'characters', 'relation': 'are killed in', 'object': 'first wave of Battle'}
+{'subject': 'Several characters', 'relation': 'are killed in', 'object': 'first wave of Battle'}
+{'subject': 'Several characters', 'relation': 'are killed in', 'object': 'first wave of Battle of Hogwarts'}
+{'subject': 'Several major characters', 'relation': 'are killed in', 'object': 'wave'}
+{'subject': 'Several major characters', 'relation': 'are killed in', 'object': 'first wave of Battle of Hogwarts'}
+{'subject': 'characters', 'relation': 'are', 'object': 'killed'}
+{'subject': 'major characters', 'relation': 'are killed in', 'object': 'wave of Battle'}
+{'subject': 'characters', 'relation': 'are killed in', 'object': 'wave of Battle of Hogwarts'}
+{'subject': 'Several major characters', 'relation': 'are killed in', 'object': 'first wave'}
+{'subject': 'epilogue Nineteen Years', 'relation': 'Later describes', 'object': 'lives'}
+{'subject': 'epilogue Nineteen Years', 'relation': 'describes', 'object': 'lives of characters'}
+{'subject': 'epilogue Nineteen Years', 'relation': 'Later describes', 'object': 'lives of surviving characters'}
+{'subject': 'epilogue Nineteen Years', 'relation': 'describes', 'object': 'lives of surviving characters'}
+{'subject': 'epilogue Nineteen Years', 'relation': 'Later describes', 'object': 'lives of characters'}
+{'subject': 'epilogue Nineteen Years', 'relation': 'describes', 'object': 'lives'}
+{'subject': 'Harry', 'relation': 'are', 'object': 'In Epilogue married'}
+{'subject': 'Ron', 'relation': 'are', 'object': 'married'}
+{'subject': 'Harry', 'relation': 'are', 'object': 'married'}
+{'subject': 'Harry', 'relation': 'are', 'object': 'married with three children'}
+{'subject': 'Harry', 'relation': 'are', 'object': 'In Epilogue married with three children'}
+{'subject': 'Hermione', 'relation': 'are', 'object': 'married'}
