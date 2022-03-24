@@ -1,3 +1,4 @@
+transformers
 stanford_openie
 nltk
 spacy-dbpedia-spotlight
