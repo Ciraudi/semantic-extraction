@@ -1,3 +1,11 @@
+### Authors:
+| Name | Student ID |
+|--------------|--------|
+|Egidio Ciraudo | 0622701566|
+|Daniele Valentino | 0622701069|
+|Lyubov Aleksandruk | 0622701472|
+|Giuseppina D'Amato | 0622701577|
+
 # BART (large-sized model), fine-tuned on CNN Daily Mail
 
 BART is a transformer encoder-encoder (seq2seq) model with a bidirectional (BERT-like) encoder and an autoregressive (GPT-like) decoder. BART is pre-trained by (1) corrupting text with an arbitrary noising function, and (2) learning a model to reconstruct the original text.
