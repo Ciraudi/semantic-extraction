@@ -97,7 +97,11 @@ This is a sentence-transformers model: it maps sentences & paragraphs to a 384 d
 1. source .env/bin/activate
 2. cd path_to_semantic_extraction
 3. python3 summarizer.py
-4. aaaa
+4. open new terminal without env
+5. cd path_to_semantic_extraction
+6. python3 triples_extraction.py
+7. python3 query.py
+8. the output is available in final_triples.txt
 
 ### Authors:
 | Name | Student ID |
