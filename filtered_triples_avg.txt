@@ -242,28 +242,28 @@
 {'subject': 'book', 'relation': 'culminate in', 'object': 'kill of Dumbledore by Professor Snape'}
 {'subject': 'book', 'relation': 'culminate in', 'object': 'Half Blood Prince'}
 {'subject': 'Harry Potter', 'relation': 'be novel in', 'object': 'series'}
-{'subject': 'Hallows', 'relation': 'be last novel in', 'object': 'series'}
+{'subject': 'Deathly Hallows', 'relation': 'be last novel in', 'object': 'series'}
 {'subject': 'Harry Potter', 'relation': 'be', 'object': 'last novel'}
-{'subject': 'Hallows', 'relation': 'be original novel in', 'object': 'series'}
-{'subject': 'Hallows', 'relation': 'be', 'object': 'original novel'}
+{'subject': 'Deathly Hallows', 'relation': 'be original novel in', 'object': 'series'}
+{'subject': 'Deathly Hallows', 'relation': 'be', 'object': 'original novel'}
 {'subject': 'Harry Potter', 'relation': 'be', 'object': 'novel'}
-{'subject': 'Hallows', 'relation': 'be', 'object': 'last novel'}
-{'subject': 'Hallows', 'relation': 'be last original novel in', 'object': 'series'}
-{'subject': 'Hallows', 'relation': 'be', 'object': 'last original novel'}
-{'subject': 'Hallows', 'relation': 'be novel in', 'object': 'series'}
+{'subject': 'Deathly Hallows', 'relation': 'be', 'object': 'last novel'}
+{'subject': 'Deathly Hallows', 'relation': 'be last original novel in', 'object': 'series'}
+{'subject': 'Deathly Hallows', 'relation': 'be', 'object': 'last original novel'}
+{'subject': 'Deathly Hallows', 'relation': 'be novel in', 'object': 'series'}
 {'subject': 'Harry Potter', 'relation': 'be last original novel in', 'object': 'series'}
 {'subject': 'Harry Potter', 'relation': 'be', 'object': 'last original novel'}
 {'subject': 'Harry Potter', 'relation': 'be', 'object': 'original novel'}
 {'subject': 'Harry Potter', 'relation': 'begin after', 'object': 'event'}
-{'subject': 'Hallows', 'relation': 'begin directly after', 'object': 'event of sixth book'}
-{'subject': 'Hallows', 'relation': 'begin directly after', 'object': 'event'}
-{'subject': 'Hallows', 'relation': 'begin directly after', 'object': 'event of book'}
+{'subject': 'Deathly Hallows', 'relation': 'begin directly after', 'object': 'event of sixth book'}
+{'subject': 'Deathly Hallows', 'relation': 'begin directly after', 'object': 'event'}
+{'subject': 'Deathly Hallows', 'relation': 'begin directly after', 'object': 'event of book'}
 {'subject': 'Harry Potter', 'relation': 'begin after', 'object': 'event of sixth book'}
-{'subject': 'Hallows', 'relation': 'begin after', 'object': 'event'}
+{'subject': 'Deathly Hallows', 'relation': 'begin after', 'object': 'event'}
 {'subject': 'Harry Potter', 'relation': 'begin directly after', 'object': 'event'}
 {'subject': 'Harry Potter', 'relation': 'begin directly after', 'object': 'event of sixth book'}
-{'subject': 'Hallows', 'relation': 'begin after', 'object': 'event of sixth book'}
-{'subject': 'Hallows', 'relation': 'begin after', 'object': 'event of book'}
+{'subject': 'Deathly Hallows', 'relation': 'begin after', 'object': 'event of sixth book'}
+{'subject': 'Deathly Hallows', 'relation': 'begin after', 'object': 'event of book'}
 {'subject': 'Harry', 'relation': 'discover', 'object': 'Harry handy Invisibility Cloak'}
 {'subject': 'Harry', 'relation': 'discover', 'object': 'Harry Invisibility Cloak'}
 {'subject': 'Harry friend', 'relation': 'learn about', 'object': 'Dumbledore past'}

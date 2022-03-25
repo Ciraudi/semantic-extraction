@@ -1376,6 +1376,9 @@ deal - verb: act on verbally or in some form of artistic expression
 --------------------------------- TRIPLE 140 --------------------------------
 Rowling		write		first part
 
+URI:
+J.K.Rowling - http://dbpedia.org/resource/J._K._Rowling
+
 VERB SENSES:
 write - verb: produce a literary work
 
@@ -1383,6 +1386,7 @@ write - verb: produce a literary work
 Rowling		write		part of Harry Potter
 
 URI:
+J.K.Rowling - http://dbpedia.org/resource/J._K._Rowling
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
@@ -1392,6 +1396,7 @@ write - verb: produce a literary work
 Rowling		part of		Harry Potter
 
 URI:
+J.K.Rowling - http://dbpedia.org/resource/J._K._Rowling
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
@@ -1402,6 +1407,7 @@ part - verb: go one's own way; move apart
 Rowling		write		part
 
 URI:
+J.K.Rowling - http://dbpedia.org/resource/J._K._Rowling
 part - http://dbpedia.org/property/part
 
 VERB SENSES:
@@ -1421,6 +1427,7 @@ in - noun: a unit of length equal to one twelfth of a foot
 Rowling		first part of		Harry Potter
 
 URI:
+J.K.Rowling - http://dbpedia.org/resource/J._K._Rowling
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
@@ -1432,6 +1439,7 @@ part - verb: go one's own way; move apart
 Rowling		write		first part of Harry Potter
 
 URI:
+J.K.Rowling - http://dbpedia.org/resource/J._K._Rowling
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
@@ -1460,6 +1468,9 @@ in - noun: a unit of length equal to one twelfth of a foot
 --------------------------------- TRIPLE 149 --------------------------------
 J. K. Rowling plaque		be on		corner
 
+URI:
+J.K.Rowling - http://dbpedia.org/resource/J._K._Rowling
+
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
 on - adjective: in operation or operational
@@ -1468,6 +1479,7 @@ on - adjective: in operation or operational
 J. K. Rowling plaque		be on		corner in Edinburgh
 
 URI:
+J.K.Rowling - http://dbpedia.org/resource/J._K._Rowling
 Edinburgh - http://dbpedia.org/resource/Edinburgh
 
 VERB SENSES:
@@ -1478,6 +1490,7 @@ on - adjective: in operation or operational
 J. K. Rowling plaque		be on		corner of former Nicholson Cafe in Edinburgh
 
 URI:
+J.K.Rowling - http://dbpedia.org/resource/J._K._Rowling
 Edinburgh - http://dbpedia.org/resource/Edinburgh
 
 VERB SENSES:
@@ -1486,6 +1499,9 @@ on - adjective: in operation or operational
 
 --------------------------------- TRIPLE 152 --------------------------------
 J. K. Rowling plaque		be on		corner of former Nicholson Cafe
+
+URI:
+J.K.Rowling - http://dbpedia.org/resource/J._K._Rowling
 
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
@@ -2424,9 +2440,10 @@ novel - noun: an extended fictional work in prose; usually in the form of a stor
 in - noun: a unit of length equal to one twelfth of a foot
 
 --------------------------------- TRIPLE 245 --------------------------------
-Hallows		be last novel in		series
+Deathly Hallows		be last novel in		series
 
 URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 series - http://dbpedia.org/property/series
 
 VERB SENSES:
@@ -2445,9 +2462,10 @@ VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
 
 --------------------------------- TRIPLE 247 --------------------------------
-Hallows		be original novel in		series
+Deathly Hallows		be original novel in		series
 
 URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 series - http://dbpedia.org/property/series
 
 VERB SENSES:
@@ -2457,7 +2475,10 @@ novel - noun: an extended fictional work in prose; usually in the form of a stor
 in - noun: a unit of length equal to one twelfth of a foot
 
 --------------------------------- TRIPLE 248 --------------------------------
-Hallows		be		original novel
+Deathly Hallows		be		original novel
+
+URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
@@ -2473,15 +2494,19 @@ VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
 
 --------------------------------- TRIPLE 250 --------------------------------
-Hallows		be		last novel
+Deathly Hallows		be		last novel
+
+URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
 
 --------------------------------- TRIPLE 251 --------------------------------
-Hallows		be last original novel in		series
+Deathly Hallows		be last original novel in		series
 
 URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 series - http://dbpedia.org/property/series
 
 VERB SENSES:
@@ -2492,15 +2517,19 @@ novel - noun: an extended fictional work in prose; usually in the form of a stor
 in - noun: a unit of length equal to one twelfth of a foot
 
 --------------------------------- TRIPLE 252 --------------------------------
-Hallows		be		last original novel
+Deathly Hallows		be		last original novel
+
+URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
 
 --------------------------------- TRIPLE 253 --------------------------------
-Hallows		be novel in		series
+Deathly Hallows		be novel in		series
 
 URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 series - http://dbpedia.org/property/series
 
 VERB SENSES:
@@ -2552,7 +2581,10 @@ begin - verb: take the first step or steps in carrying out an action
 after - adverb: located farther aft
 
 --------------------------------- TRIPLE 258 --------------------------------
-Hallows		begin directly after		event of sixth book
+Deathly Hallows		begin directly after		event of sixth book
+
+URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 
 VERB SENSES:
 begin - verb: take the first step or steps in carrying out an action
@@ -2560,9 +2592,10 @@ directly - adverb: without deviation
 after - adverb: located farther aft
 
 --------------------------------- TRIPLE 259 --------------------------------
-Hallows		begin directly after		event
+Deathly Hallows		begin directly after		event
 
 URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 event - http://dbpedia.org/property/event
 
 VERB SENSES:
@@ -2571,7 +2604,10 @@ directly - adverb: without deviation
 after - adverb: located farther aft
 
 --------------------------------- TRIPLE 260 --------------------------------
-Hallows		begin directly after		event of book
+Deathly Hallows		begin directly after		event of book
+
+URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 
 VERB SENSES:
 begin - verb: take the first step or steps in carrying out an action
@@ -2589,9 +2625,10 @@ begin - verb: take the first step or steps in carrying out an action
 after - adverb: located farther aft
 
 --------------------------------- TRIPLE 262 --------------------------------
-Hallows		begin after		event
+Deathly Hallows		begin after		event
 
 URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 event - http://dbpedia.org/property/event
 
 VERB SENSES:
@@ -2622,14 +2659,20 @@ directly - adverb: without deviation
 after - adverb: located farther aft
 
 --------------------------------- TRIPLE 265 --------------------------------
-Hallows		begin after		event of sixth book
+Deathly Hallows		begin after		event of sixth book
+
+URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 
 VERB SENSES:
 begin - verb: take the first step or steps in carrying out an action
 after - adverb: located farther aft
 
 --------------------------------- TRIPLE 266 --------------------------------
-Hallows		begin after		event of book
+Deathly Hallows		begin after		event of book
+
+URI:
+Deathly Hallows - http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
 
 VERB SENSES:
 begin - verb: take the first step or steps in carrying out an action

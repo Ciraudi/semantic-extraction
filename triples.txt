@@ -314,20 +314,20 @@
 {'subject': 'book', 'relation': 'culminates in', 'object': 'killing of Dumbledore by Professor Snape'}
 {'subject': 'book', 'relation': 'culminates in', 'object': 'Half Blood Prince'}
 {'subject': 'Harry Potter', 'relation': 'is novel in', 'object': 'series'}
-{'subject': 'Hallows', 'relation': 'is last novel in', 'object': 'series'}
+{'subject': 'Deathly Hallows', 'relation': 'is last novel in', 'object': 'series'}
 {'subject': 'Harry Potter', 'relation': 'is', 'object': 'last novel'}
-{'subject': 'Hallows', 'relation': 'is original novel in', 'object': 'series'}
-{'subject': 'Hallows', 'relation': 'is', 'object': 'original novel'}
+{'subject': 'Deathly Hallows', 'relation': 'is original novel in', 'object': 'series'}
+{'subject': 'Deathly Hallows', 'relation': 'is', 'object': 'original novel'}
 {'subject': 'Harry Potter', 'relation': 'is', 'object': 'novel'}
-{'subject': 'Hallows', 'relation': 'is', 'object': 'last novel'}
-{'subject': 'Hallows', 'relation': 'is last original novel in', 'object': 'series'}
-{'subject': 'Hallows', 'relation': 'is', 'object': 'last original novel'}
+{'subject': 'Deathly Hallows', 'relation': 'is', 'object': 'last novel'}
+{'subject': 'Deathly Hallows', 'relation': 'is last original novel in', 'object': 'series'}
+{'subject': 'Deathly Hallows', 'relation': 'is', 'object': 'last original novel'}
 {'subject': 'Harry Potter', 'relation': 'is', 'object': 'last novel in series'}
 {'subject': 'Harry Potter', 'relation': 'is', 'object': 'original novel in series'}
 {'subject': 'Harry Potter', 'relation': 'is', 'object': 'novel in series'}
-{'subject': 'Hallows', 'relation': 'is novel in', 'object': 'series'}
+{'subject': 'Deathly Hallows', 'relation': 'is novel in', 'object': 'series'}
 {'subject': 'Harry Potter', 'relation': 'is last original novel in', 'object': 'series'}
-{'subject': 'Hallows', 'relation': 'is', 'object': 'novel'}
+{'subject': 'Deathly Hallows', 'relation': 'is', 'object': 'novel'}
 {'subject': 'Harry Potter', 'relation': 'is', 'object': 'last original novel in series'}
 {'subject': 'Harry Potter', 'relation': 'is original novel in', 'object': 'series'}
 {'subject': 'last original novel', 'relation': 'is in', 'object': 'series'}
@@ -335,16 +335,16 @@
 {'subject': 'Harry Potter', 'relation': 'is', 'object': 'last original novel'}
 {'subject': 'Harry Potter', 'relation': 'is', 'object': 'original novel'}
 {'subject': 'Harry Potter', 'relation': 'begins after', 'object': 'events'}
-{'subject': 'Hallows', 'relation': 'begins directly after', 'object': 'events of sixth book'}
-{'subject': 'Hallows', 'relation': 'begins directly after', 'object': 'events'}
-{'subject': 'Hallows', 'relation': 'begins directly after', 'object': 'events of book'}
+{'subject': 'Deathly Hallows', 'relation': 'begins directly after', 'object': 'events of sixth book'}
+{'subject': 'Deathly Hallows', 'relation': 'begins directly after', 'object': 'events'}
+{'subject': 'Deathly Hallows', 'relation': 'begins directly after', 'object': 'events of book'}
 {'subject': 'Harry Potter', 'relation': 'begins after', 'object': 'events of sixth book'}
-{'subject': 'Hallows', 'relation': 'begins after', 'object': 'events'}
+{'subject': 'Deathly Hallows', 'relation': 'begins after', 'object': 'events'}
 {'subject': 'Harry Potter', 'relation': 'begins directly after', 'object': 'events'}
 {'subject': 'Harry Potter', 'relation': 'begins directly after', 'object': 'events of sixth book'}
 {'subject': 'Harry Potter', 'relation': 'begins after', 'object': 'events of book'}
-{'subject': 'Hallows', 'relation': 'begins after', 'object': 'events of sixth book'}
-{'subject': 'Hallows', 'relation': 'begins after', 'object': 'events of book'}
+{'subject': 'Deathly Hallows', 'relation': 'begins after', 'object': 'events of sixth book'}
+{'subject': 'Deathly Hallows', 'relation': 'begins after', 'object': 'events of book'}
 {'subject': 'Harry Potter', 'relation': 'begins directly after', 'object': 'events of book'}
 {'subject': 'Lord Voldemort', 'relation': 'has completed', 'object': 'Lord Voldemort ascension'}
 {'subject': 'Lord Voldemort', 'relation': 'has completed', 'object': 'Lord Voldemort ascension to power'}
