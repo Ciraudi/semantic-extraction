@@ -88,6 +88,7 @@ Harry		develop through		Harry adolescence
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 develop - verb: make something new, such as a product or a mental or artistic creation
@@ -107,6 +108,7 @@ Harry		learn		Harry develop through Harry adolescence
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 learn - verb: gain knowledge or skills
@@ -125,6 +127,7 @@ overcome - verb: win a victory over
 Harry		learn		Harry develop
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
@@ -517,6 +520,7 @@ Harry		witness		Harry parent murder
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 witness - verb: be a witness to
@@ -526,12 +530,17 @@ Harry		witness		Harry parent murder by ob dark wizard
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+wizard - http://dbpedia.org/resource/Unseen_University
 
 VERB SENSES:
 witness - verb: be a witness to
 
 --------------------------------- TRIPLE 57 --------------------------------
 Harry parent		murder by		wizard
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 murder - verb: kill intentionally and with premeditation
@@ -542,6 +551,8 @@ Harry		witness		Harry parent murder by dark wizard
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+wizard - http://dbpedia.org/resource/Unseen_University
 
 VERB SENSES:
 witness - verb: be a witness to
@@ -551,6 +562,8 @@ Harry		witness		Harry parent murder by wizard
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+wizard - http://dbpedia.org/resource/Unseen_University
 
 VERB SENSES:
 witness - verb: be a witness to
@@ -559,6 +572,7 @@ witness - verb: be a witness to
 Harry parent		murder by		ob dark wizard
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 wizard - http://dbpedia.org/resource/Middle-earth_peoples
 
 VERB SENSES:
@@ -570,6 +584,8 @@ Harry		witness		Harry parent murder by ob wizard
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+wizard - http://dbpedia.org/resource/Unseen_University
 
 VERB SENSES:
 witness - verb: be a witness to
@@ -579,6 +595,8 @@ Harry		witness		Harry parent murder by power ob dark wizard
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+wizard - http://dbpedia.org/resource/Unseen_University
 
 VERB SENSES:
 witness - verb: be a witness to
@@ -588,12 +606,17 @@ Harry		witness		Harry parent murder by power ob wizard
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+wizard - http://dbpedia.org/resource/Unseen_University
 
 VERB SENSES:
 witness - verb: be a witness to
 
 --------------------------------- TRIPLE 64 --------------------------------
 Harry parent		murder by		power ob wizard
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 murder - verb: kill intentionally and with premeditation
@@ -603,6 +626,7 @@ by - adverb: so as to pass a given point
 Harry parent		murder by		power ob dark wizard
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 wizard - http://dbpedia.org/resource/Middle-earth_peoples
 
 VERB SENSES:
@@ -623,6 +647,7 @@ It		be second part of		two part series about Harry life
 
 URI:
 It - http://dbpedia.org/resource/It
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
@@ -635,6 +660,7 @@ It		be part of		two part series about Harry life
 
 URI:
 It - http://dbpedia.org/resource/It
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
@@ -723,6 +749,8 @@ Harry		be recruit for		Harry house Quidditch team
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Quidditch - http://dbpedia.org/resource/Quidditch
 
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
@@ -788,6 +816,10 @@ discover - verb: discover or determine the existence, presence, or fact of
 --------------------------------- TRIPLE 84 --------------------------------
 first book		conclude with		Harry confrontation with Lord Voldemort
 
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Lord Voldemort - http://dbpedia.org/resource/Lord_Voldemort
+
 VERB SENSES:
 conclude - verb: decide by reasoning; draw or come to a conclusion
  
@@ -797,6 +829,7 @@ book		conclude with		Harry second confrontation
 
 URI:
 book - http://dbpedia.org/property/book
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 conclude - verb: decide by reasoning; draw or come to a conclusion
@@ -804,6 +837,10 @@ conclude - verb: decide by reasoning; draw or come to a conclusion
 
 --------------------------------- TRIPLE 86 --------------------------------
 first book		conclude with		Harry second confrontation with Lord Voldemort
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Lord Voldemort - http://dbpedia.org/resource/Lord_Voldemort
 
 VERB SENSES:
 conclude - verb: decide by reasoning; draw or come to a conclusion
@@ -813,6 +850,7 @@ conclude - verb: decide by reasoning; draw or come to a conclusion
 Harry second confrontation		be with		Lord Voldemort
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 Lord Voldemort - http://dbpedia.org/resource/Lord_Voldemort
 
 VERB SENSES:
@@ -824,6 +862,8 @@ book		conclude with		Harry confrontation with Lord Voldemort
 
 URI:
 book - http://dbpedia.org/property/book
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Lord Voldemort - http://dbpedia.org/resource/Lord_Voldemort
 
 VERB SENSES:
 conclude - verb: decide by reasoning; draw or come to a conclusion
@@ -831,6 +871,9 @@ conclude - verb: decide by reasoning; draw or come to a conclusion
 
 --------------------------------- TRIPLE 89 --------------------------------
 first book		conclude with		Harry confrontation
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 conclude - verb: decide by reasoning; draw or come to a conclusion
@@ -841,6 +884,7 @@ book		conclude with		Harry confrontation
 
 URI:
 book - http://dbpedia.org/property/book
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 conclude - verb: decide by reasoning; draw or come to a conclusion
@@ -1047,6 +1091,7 @@ introduce - verb: cause to come to know personally
 Harry learn		associate with		Dark Arts
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
 
 VERB SENSES:
@@ -1057,6 +1102,7 @@ associate - verb: make a logical or causal connection
 Harry ability		speak		snake language Parseltongue
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 snake - http://dbpedia.org/resource/Snake
 Parseltongue - http://dbpedia.org/resource/Magic_in_Harry_Potter
 
@@ -1067,6 +1113,7 @@ speak - verb: express in speech
 Harry learn		often associate with		Dark Arts
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 Dark Arts - http://dbpedia.org/resource/Magic_in_Harry_Potter
 
 VERB SENSES:
@@ -1078,6 +1125,7 @@ associate - verb: make a logical or causal connection
 Harry learn		be		rare
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 rare - http://dbpedia.org/property/rare
 
 VERB SENSES:
@@ -1188,6 +1236,7 @@ novel		follow		Harry in Harry
 
 URI:
 novel - http://dbpedia.org/ontology/Novel
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 follow - verb: to travel behind, go after, come after
@@ -1216,6 +1265,9 @@ VERB SENSES:
 --------------------------------- TRIPLE 129 --------------------------------
 third novel		follow		Harry in Harry
 
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
 VERB SENSES:
 follow - verb: to travel behind, go after, come after
 
@@ -1234,6 +1286,7 @@ Prisoner		follow		Harry in Harry
 
 URI:
 Prisoner - http://dbpedia.org/resource/Prisoner
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 follow - verb: to travel behind, go after, come after
@@ -1818,6 +1871,7 @@ Harry		teach		Harry classmate
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 teach - verb: impart skills or knowledge to
@@ -2060,6 +2114,9 @@ begin - verb: take the first step or steps in carrying out an action
 --------------------------------- TRIPLE 216 --------------------------------
 Harry friend		be		protect
 
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
 
@@ -2067,6 +2124,7 @@ be - verb: have the quality of being; (copula, used with an adjective or a predi
 Harry friend		be relatively protect from		danger at Hogwarts
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 Hogwarts - http://dbpedia.org/resource/Hogwarts
 
 VERB SENSES:
@@ -2078,6 +2136,9 @@ protect - verb: shield from danger, injury, destruction, or damage
 --------------------------------- TRIPLE 218 --------------------------------
 Harry friend		be relatively protect from		danger
 
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
 relatively - adverb: in a relative manner; by comparison to something else
@@ -2088,6 +2149,7 @@ protect - verb: shield from danger, injury, destruction, or damage
 Harry friend		be protect from		danger at Hogwarts
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 Hogwarts - http://dbpedia.org/resource/Hogwarts
 
 VERB SENSES:
@@ -2098,11 +2160,17 @@ protect - verb: shield from danger, injury, destruction, or damage
 --------------------------------- TRIPLE 220 --------------------------------
 Harry friend		be		relatively protect
 
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
 
 --------------------------------- TRIPLE 221 --------------------------------
 Harry friend		be protect from		danger
+
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 
 VERB SENSES:
 be - verb: have the quality of being; (copula, used with an adjective or a predicate noun)
@@ -2572,6 +2640,8 @@ Harry		discover		Harry handy Invisibility Cloak
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Invisibility Cloak - http://dbpedia.org/resource/Magical_objects_in_Harry_Potter
 
 VERB SENSES:
 discover - verb: discover or determine the existence, presence, or fact of
@@ -2581,6 +2651,8 @@ Harry		discover		Harry Invisibility Cloak
 
 URI:
 Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+Invisibility Cloak - http://dbpedia.org/resource/Magical_objects_in_Harry_Potter
 
 VERB SENSES:
 discover - verb: discover or determine the existence, presence, or fact of
@@ -2589,6 +2661,7 @@ discover - verb: discover or determine the existence, presence, or fact of
 Harry friend		learn about		Dumbledore past
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 Dumbledore - http://dbpedia.org/resource/Albus_Dumbledore
 
 VERB SENSES:
@@ -2598,6 +2671,9 @@ about - adverb: on the move
 --------------------------------- TRIPLE 270 --------------------------------
 Harry friend		learn At		end of book
 
+URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
+
 VERB SENSES:
 learn - verb: gain knowledge or skills
  
@@ -2606,6 +2682,7 @@ learn - verb: gain knowledge or skills
 Harry friend		learn At		end
 
 URI:
+Harry Potter - http://dbpedia.org/resource/Harry_Potter
 end - http://dbpedia.org/property/end
 
 VERB SENSES:
