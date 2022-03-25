@@ -95,6 +95,19 @@ This is a sentence-transformers model: it maps sentences & paragraphs to a 384 d
     url = "http://arxiv.org/abs/1908.10084",
 }
 ```
+## DBpedia Spotlight
+DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text. Improving Efficiency and Accuracy in Multilingual Entity Extraction approach
+https://github.com/dbpedia-spotlight/dbpedia-spotlight-model
+
+## Cite
+```
+@inproceedings{isem2013daiber,
+  title = {Improving Efficiency and Accuracy in Multilingual Entity Extraction},
+  author = {Joachim Daiber and Max Jakob and Chris Hokamp and Pablo N. Mendes},
+  year = {2013},
+  booktitle = {Proceedings of the 9th International Conference on Semantic Systems (I-Semantics)}
+}
+```
 ## How to run the project
 This refers to an execution on Ubuntu system terminal
 1. ```source .env/bin/activate```
