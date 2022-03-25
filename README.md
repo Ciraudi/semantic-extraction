@@ -2,6 +2,17 @@
 The aim of this project is to extract the most semantically significant subject-predicate-object triples from an unstructured text.
 
 The following libraries are used in this project:
+
+# NLTK (Natural Language Toolkit)
+
+NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum. 
+
+You can find more there: https://www.nltk.org/
+
+## Installation and usage
+
+You have to follow this tutorial https://www.guru99.com/download-install-nltk.html
+
 # BART (large-sized model), fine-tuned on CNN Daily Mail
 
 BART is a transformer encoder-encoder (seq2seq) model with a bidirectional (BERT-like) encoder and an autoregressive (GPT-like) decoder. BART is pre-trained by (1) corrupting text with an arbitrary noising function, and (2) learning a model to reconstruct the original text.
