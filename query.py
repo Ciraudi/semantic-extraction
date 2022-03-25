@@ -1,7 +1,7 @@
 /* 
  * 
- * Group:
- * Ciraudo	Egidio      0622701566  e.ciraudo@studenti.unisa.it           
+ * Authors:
+ * Ciraudo Egidio       0622701566  e.ciraudo@studenti.unisa.it           
  * Aleksandruk Lyubov   0622701472	l.aleksandruk@studenti.unisa.it 
  * Valentino Daniele    0622701069  d.valentino5@studenti.unisa.it
  * D'Amato Giuseppina   0622701577  g.damato43@studenti.unisa.it
