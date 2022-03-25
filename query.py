@@ -62,7 +62,7 @@ def substitute_name(sentence):
     sentence=''
     for word in words:
       if word == 'Harry':
-        word= 'Harry Potter'
+        word= 'Harry Potter '
       sentence=sentence+word
   return sentence
    
