@@ -124,34 +124,34 @@ if __name__ == "__main__":
         
             triples=[]
             filtered_triples=[]
-        with MoonSpinner('Triples Extraction ') as bar:    
-            for text in sentences: 
-                annotated=client.annotate(text)
+            with MoonSpinner('Triples Extraction ') as bar:    
+                for text in sentences: 
+                    annotated=client.annotate(text)
 
-                for triple in annotated:
-                    f.write(str(triple))
-                    f.write('\n')
-                    sub=triple.get('subject')
-                    verb=triple.get('relation')
-                    obj=triple.get('object')
-                    my_tripla=sub+' '+verb+' '+obj
-                    triples.append(my_tripla) 
+                    for triple in annotated:
+                        f.write(str(triple))
+                        f.write('\n')
+                        sub=triple.get('subject')
+                        verb=triple.get('relation')
+                        obj=triple.get('object')
+                        my_tripla=sub+' '+verb+' '+obj
+                        triples.append(my_tripla) 
 
-                indexes=similarity_avg([text],triples)
-                
-                if len(indexes)!=0:
-                    for i,triple in enumerate(annotated):
-                        if i in indexes:
-                            sub=triple.get('subject')
-                            verb=triple.get('relation')
-                            obj=triple.get('object')
-                            lemmatized_sub=lemma_sentence(sub)
-                            lemmatized_verb=lemma_sentence(verb)
-                            lemmatized_obj=lemma_sentence(obj)
-                            lemmatized_triple={'subject':lemmatized_sub.strip(), 'relation':lemmatized_verb.strip(), 'object':lemmatized_obj.strip()}
-                            if not lemmatized_triple in triples:
-                                filtered_triples.append(lemmatized_triple) 
-                bar.next()
+                    indexes=similarity_avg([text],triples)
+
+                    if len(indexes)!=0:
+                        for i,triple in enumerate(annotated):
+                            if i in indexes:
+                                sub=triple.get('subject')
+                                verb=triple.get('relation')
+                                obj=triple.get('object')
+                                lemmatized_sub=lemma_sentence(sub)
+                                lemmatized_verb=lemma_sentence(verb)
+                                lemmatized_obj=lemma_sentence(obj)
+                                lemmatized_triple={'subject':lemmatized_sub.strip(), 'relation':lemmatized_verb.strip(), 'object':lemmatized_obj.strip()}
+                                if not lemmatized_triple in triples:
+                                    filtered_triples.append(lemmatized_triple) 
+                    bar.next()
 
 
         #saving filtered triples
