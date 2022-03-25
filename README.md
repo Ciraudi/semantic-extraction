@@ -96,6 +96,7 @@ This is a sentence-transformers model: it maps sentences & paragraphs to a 384 d
 }
 ```
 ## How to run the project
+This refers to an execution on Ubuntu system
 1. ```source .env/bin/activate```
 2. cd path_to_semantic_extraction_folder
 3. ```python3 summarizer.py```
