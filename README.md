@@ -1,10 +1,4 @@
-### Authors:
-| Name | Student ID |
-|--------------|--------|
-|Egidio Ciraudo | 0622701566|
-|Daniele Valentino | 0622701069|
-|Lyubov Aleksandruk | 0622701472|
-|Giuseppina D'Amato | 0622701577|
+# Semantic extraction from unstructured text
 
 # BART (large-sized model), fine-tuned on CNN Daily Mail
 
@@ -99,3 +93,15 @@ This is a sentence-transformers model: it maps sentences & paragraphs to a 384 d
     url = "http://arxiv.org/abs/1908.10084",
 }
 ```
+## How to run the project
+1. 
+2.
+3.
+
+### Authors:
+| Name | Student ID |
+|--------------|--------|
+|Egidio Ciraudo | 0622701566|
+|Daniele Valentino | 0622701069|
+|Lyubov Aleksandruk | 0622701472|
+|Giuseppina D'Amato | 0622701577|
