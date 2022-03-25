@@ -13,7 +13,7 @@ You can find more there: https://www.nltk.org/
 
 ## Installation and usage
 
-You have to follow this tutorial https://www.guru99.com/download-install-nltk.html
+You can follow this tutorial https://www.guru99.com/download-install-nltk.html
 
 ## Cite
 
