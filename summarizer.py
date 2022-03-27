@@ -51,7 +51,7 @@ for sent in sentences:
     #print(text)
     summarized.append(text)
 
-with open('summary_no_titles.txt', 'w') as f:
+with open('summary.txt', 'w') as f:
     for sum in summarized:
         f.write(sum)
         f.write('\n')
