@@ -89,7 +89,7 @@ def substitute_name(sentence):
       if word == 'Harry':
         word= 'Harry Potter'
       sentence=sentence+' '+word
-   if 'Rowling' in words:
+  if 'Rowling' in words:
     if 'K.' not in words and 'J.' not in words:
       sentence=''
       for word in words:
