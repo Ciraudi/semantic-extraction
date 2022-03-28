@@ -1,8 +1,8 @@
-pip install numpy
-pip install cython
+numpy
+cython
 spacy==2.1.0
 transformers
-neural_coref
+neuralcoref --no-binary neuralcoref
 en_core_web_sm
 wget
 sentence_transformers
