@@ -3,7 +3,9 @@ cython
 spacy==2.1.0
 transformers
 neuralcoref --no-binary neuralcoref
-en_core_web_sm
+setuptools
+setuptools_rust
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz#egg=en_core_web_sm
 wget
 sentence_transformers
 stanfordnlp
